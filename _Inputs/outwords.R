@@ -66,5 +66,5 @@ out_words<- c("instagram","bundessansweb","font","one","two","url","https","docl
               "styled.g107","styled.g108","styled.g109","50","100","0.85","25","0.9","75",
               "c","n4","1","aa","s","ii","nthe","nand","nto","b","o","nin","co","e", "m","nof","nthis","nmately",
               "nmental","nparis","t","mech", "nble","ps","showchar","subtitle","aligncenter",
-              "email","imagetype","whatsapp","efefef","bfbfbf","infowindow")
+              "email","imagetype","whatsapp","efefef","bfbfbf","infowindow","nth","0","1","2","3","4","5","6","7","8","9")
 
