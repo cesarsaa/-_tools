@@ -14,7 +14,7 @@ out_words<- c("instagram","bundessansweb","font","one","two","url","https","docl
               "password","weight", "style","family", "inicio","justify", "content",
               "header","solid", "background", "top","main", "body", "contenfooter", "items",
               "grid","end","top","span", "align", "width","align","megamenu","parent",
-              "max","animation","twitter","window","español", "english","ico","fontsize","Fontsize",
+              "max","animation","twitter","window","español", "english", "ico","fontsize",
 	      "font-size", "textsize", "lettersize", "charactersize", "typographysize", "textscale", 
 	      "letterdimension", "textdimension", "letterscale", "textproportions", "fontsizeattribute", 
               "typesize", "textdimensions", "letterdimensions", "scalefactor", "textscalefactor", "letterscaling", 
@@ -73,10 +73,14 @@ out_words<- c("instagram","bundessansweb","font","one","two","url","https","docl
               "a.terminate","td.datatables_empty","styled.g102","na","nrc","unhcr","wvi","wa","ngos","ce","ip","esg","uk",
 	      "iii","fgds","yep","set","ips","cpda","arra","maxwidth","const","sbti","pl","cdata","wmb","dolo","ado","tea","embu","kobe","due","nyeri","ahover",
               "styled.g101","styled.g103","styled.g104","styled.g105","styled.g106","fstatic","eoconst","async","ibid","etb","mt","prosopis","sbts","bbgcolumn","iftrue",
-              "styled.g107","styled.g108","styled.g109","50","100","0.85","25","0.9","75",
+              "styled.g107","styled.g108","styled.g109","50","100","0.85","25","0.9","75","maxwidht",
+              "maximumwidth", "maximalwidth", "maxwidth", "maximumsize", "limitwidth", "widthlimit", "maxdimensions", "maximaldimensions", "sizeconstraint", "maxextent", 
+              "widthrestriction", "maximummeasurement", "maxspan", "maxbreadth", "maxmeasure", "maxlimitation", "widthboundary", "maximalextent", "maxspan", "maximumbreadth", 
+              "breadthlimit", "sizelimit", "extentlimit", "maximalmeasure", "maximalbreadth", "maximalspan", "limitingwidth", "widththreshold", "maximumwidthvalue", "maximalsize", "maxvaluewidth",
+
               "c","n4","1","aa","s","ii","nthe","nand","nto","b","o","nin","co","e", "m","nof","nthis","nmately","fgd","gtmauth","disha","unment","dib","skao","eur",
               "nmental","nparis","t","mech", "nble","ps","showchar","subtitle","aligncenter","aexattr","fsready","kes","searchq","nfor","pydo","isinit","usedtget","usd",
-              "email","imagetype","whatsapp","efefef","bfbfbf","infowindow","nth","0","1","2","3","4","5","6","7","8","9",
+              "email","imagetype","whatsapp","efefef","bfbfbf","infowindow","nth","0","1","2","3","4","5","6","7","8","9","fontweight","font weight","font-weight"
 	      "slidingpopup","uhttps","linewidth", "columnwidth", "pagewidth", "characterwidth", "textsize", "fontwidth", "textlength", "textsize", "textformat", "textalignment",
               "HTML", "CSS", "JavaScript", "Python", "Ruby", "PHP", "Java", "C#", "ASP.NET", "Node.js", "React", "Angular", "Vue.js", "Django", "Flask", "Express.js", "Spring", 
 	      "Bootstrap", "jQuery", "RESTful", "API", "JSON", "AJAX", "Git", "GitHub", "Heroku", "Responsive Design", "Front-end", "Back-end", "Full Stack", "Database", "SQL", "MongoDB", 
@@ -93,6 +97,8 @@ out_words<- c("instagram","bundessansweb","font","one","two","url","https","docl
               "ellos", "ellas", "ustedes", "me", "te", "le", "nos", "os", "les", "mío", "tuyo", "suyo", "nuestro", 
               "nuestra", "vuestro", "vuestra", "suyos", "suyas", "míos", "mías", "tuyos", "tuyas", "suyos", "suyas",
               "nuestros", "nuestras", "vuestros", "vuestras", "suyos", "suyas","aactive","aajeevika","aay","aayog",
+
+
 "Ã„Â—nkÃƒÂ«mgezwat",
 "Ã¢Â€Â¯lorawan",
 "Ã°ÂÂ‘Â¡",
