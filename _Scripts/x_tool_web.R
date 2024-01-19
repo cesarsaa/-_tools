@@ -35,6 +35,9 @@ web_scrapp <- function(sheets) {
       review_title <- HtmlLink %>% httr::GET(., timeout(10000)) %>%
         xml2::read_html() %>% rvest::html_children() %>% rvest::html_text()
       #= -------------------------------------------------------
+      review_title <- gsub("[[:cntrl:]]", " ", review_title)
+      review_title <- tm::removePunctuation(review_title)
+      #= -------------------------------------------------------
       source("D:/OneDrive - CGIAR/Documents/GitHub/XX_tool/_Inputs/outwords.R",encoding="utf-8")
       fuera_palabras_english <- stopwords("english")
       stopwords_en <- stopwords("SMART")
@@ -44,9 +47,6 @@ web_scrapp <- function(sheets) {
       #= -------------------------------------------------------
       db <- as.data.frame(db)
       db_bigrams <- as.data.frame(dn)
-      #= -------------------------------------------------------
-      db_bigrams$cat <- categoria
-      db$cat <- categoria
       #= -------------------------------------------------------
       db_bigrams <- db_bigrams %>%
         tidytext::unnest_tokens(bigram, text, token= "ngrams", n=2) %>%
@@ -58,13 +58,14 @@ web_scrapp <- function(sheets) {
       out <- db[grep(pattern = "[0-9]+|[[:punct:]]|\\(.*\\)", db$word),]
       out <- unique(out)
       #= -------------------------------------------------------
-      cortas <- db[nchar(db$word)<3,] 
-      largas <- db[nchar(db$word)>15,] 
+      cortas <- db[nchar(db$word)<=4,] 
+      largas <- db[nchar(db$word)>=10,] 
       db <- db %>% filter(!word %in% cortas) %>% filter(!word %in% largas)
       #= -------------------------------------------------------
       db <- db  %>% dplyr::filter(!word %in% out ) %>%
         dplyr::filter(!word %in% fuera_palabras_english) %>%
-        dplyr::filter(!word %in% out_words) %>% dplyr::filter(!word %in% stopwords_en)
+        dplyr::filter(!word %in% out_words) %>% 
+        dplyr::filter(!word %in% stopwords_en)
       #= -------------------------------------------------------
       bigrams_filtered <- bigrams_separated %>%
         dplyr::filter(!word1 %in% stop_words$word) %>%
@@ -86,8 +87,12 @@ web_scrapp <- function(sheets) {
         dplyr::filter(!word2 %in%  .[nchar(.$word2)<3,]) %>%
         dplyr::filter(!word2 %in%  .[nchar(.$word2)>13,])
       #= -------------------------------------------------------
+      db$category <- categoria
+      db$institution <- sheets
+      #= -------------------------------------------------------
       profile_web[[i]] <- db
-      bigrams_filtered$cat<- categoria
+      bigrams_filtered$category <- categoria
+      bigrams_filtered$institution <- sheets
       profile_bigram[[i]]<- bigrams_filtered
       cat(paste("termina nodo:","\n",nodes[i],"\n",sep=""))
     }
@@ -97,12 +102,12 @@ web_scrapp <- function(sheets) {
     web_iki_bigram<- do.call(rbind,profile_bigram)
     #
     web_data <- web_data %>% 
-      dplyr::group_by(., word, cat) %>% 
+      dplyr::group_by(., word, category, institution) %>% 
       dplyr::count(word, sort = TRUE)
     web_data$date <- Sys.Date()
     
     web_iki_bigram <- web_iki_bigram %>% 
-      dplyr::group_by(cat) %>% 
+      dplyr::group_by(category, institution) %>% 
       dplyr::count(word1, word2, sort = TRUE)
     web_iki_bigram$date <- Sys.Date()
     #

@@ -39,7 +39,7 @@ out_words<- c("instagram","bundessansweb","font","one","two","url","https","docl
               "droid","formatid","blush","staticurl","isintext","targetlanguage","legend",
               "welle","meta","scrollbar","ptx","abrava", "cent","irena","incl",
               "amcharts","they","abbreviation","abovementioned","activitieswithin",
-              "actoin", "adadad", "alt", "appendix", "april", "areasmitigation",
+              "actoin", "adadad", "alt", "appendix", "april", "areasmitigation","aaa","fmmsd",
               "abovementioned","fulfilment", "ies","january", "welcomeinfo",
               "twelve","welcome","tagline","arg","november","skip","wpfront", "open",
               "event", "tab", "istock", "per", "klimaschutzinitiative", "ts_inlinejs",
@@ -61,10 +61,21 @@ out_words<- c("instagram","bundessansweb","font","one","two","url","https","docl
               "column:nth","src:local","1.25em","2em","transform:scale","1.5","5px","7px","8px","9px",
               "u003c","0.5s","datatables_wrapper","0.5","2s","e.canvas.width","214,173,90,0.8",
               "40","0.3","0.5em","table.datatable","th.dt","div.datatables_scrollbody",
-              "a.terminate","td.datatables_empty","styled.g102",
+              "a.terminate","td.datatables_empty","styled.g102","na","nrc","unhcr","wvi","wa",
+	      "iii","fgds","yep","set","ips","cpda","arra",
               "styled.g101","styled.g103","styled.g104","styled.g105","styled.g106",
               "styled.g107","styled.g108","styled.g109","50","100","0.85","25","0.9","75",
               "c","n4","1","aa","s","ii","nthe","nand","nto","b","o","nin","co","e", "m","nof","nthis","nmately",
               "nmental","nparis","t","mech", "nble","ps","showchar","subtitle","aligncenter",
-              "email","imagetype","whatsapp","efefef","bfbfbf","infowindow","nth","0","1","2","3","4","5","6","7","8","9")
+              "email","imagetype","whatsapp","efefef","bfbfbf","infowindow","nth","0","1","2","3","4","5","6","7","8","9",
+	      "slidingpopup","uhttps","linewidth", "columnwidth", "pagewidth", "characterwidth", "textsize", "fontwidth", "textlength", "textsize", "textformat", "textalignment",
+              "HTML", "CSS", "JavaScript", "Python", "Ruby", "PHP", "Java", "C#", "ASP.NET", "Node.js", "React", "Angular", "Vue.js", "Django", "Flask", "Express.js", "Spring", 
+	      "Bootstrap", "jQuery", "RESTful", "API", "JSON", "AJAX", "Git", "GitHub", "Heroku", "Responsive Design", "Front-end", "Back-end", "Full Stack", "Database", "SQL", "MongoDB", 
+	      "Firebase", "Nginx", "Apache", "HTTP", "HTTPS", "Domain", "Hosting", "SSL", "CMS", "WordPress", "Jekyll", "SEO", "Web Security", "Cross-Origin", "Cookie", "Session", "OAuth", "JWT", "Websocket", "SPA", "MVC", "ORM", "CRUD",
+	      "<!DOCTYPE>", "<html>", "<head>", "<title>", "<meta>", "<body>", "<header>", "<nav>", "<main>", "<section>", "<article>", "<aside>", "<footer>", "<h1>", "<h2>", "<h3>", "<h4>", 
+              "<h5>", "<h6>", "<p>", "<a>", "<img>", "<div>", "<span>", "<ul>", "<ol>", "<li>", "<dl>", "<dt>", "<dd>", "<table>", "<tr>", "<td>", "<th>", "<form>", "<input>", "<textarea>", 
+              "<select>", "<button>", "<label>", "<fieldset>", "<legend>", "<iframe>", "<audio>", "<video>", "<canvas>", "<script>", "<style>", "<link>", "<a href>", "<img src>", "<alt>", 
+              "<href>", "<src>", "id", "class", "style", "width", "height", "padding", "margin", "border", "font-family", "color", "background-color", "text-align", "display", "position", 
+              "float", "clear", "box-sizing", "overflow", "visibility", "z-index", "animation", "transition", "hover", "active", "focus", "before", "after"
+)
 

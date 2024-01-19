@@ -1,0 +1,1261 @@
+"","word","word_cat","institution","date","total"
+"1","ability","education","Bloomberg Philantrhopies","1/16/2024",3
+"2","ability","education","Bloomberg Philantrhopies","1/18/2024",3
+"3","ability","education","IKEA Foundation ","1/16/2024",57
+"4","ability","education","IKEA Foundation ","1/18/2024",57
+"5","ability","education","Mc Arthur Foundation","1/16/2024",25
+"6","ability","education","Mc Arthur Foundation","1/18/2024",25
+"7","ability","education","Sean Parker Foundation","1/16/2024",2
+"8","ability","education","Sean Parker Foundation","1/18/2024",2
+"9","academics","education","IKEA Foundation ","1/16/2024",4
+"10","academics","education","IKEA Foundation ","1/18/2024",4
+"11","academics","education","Mc Arthur Foundation","1/16/2024",1
+"12","academics","education","Mc Arthur Foundation","1/18/2024",1
+"13","access","education","Alliance","1/18/2024",17
+"14","access","education","Bloomberg Philantrhopies","1/16/2024",117
+"15","access","education","Bloomberg Philantrhopies","1/18/2024",117
+"16","access","education","Howard G. Buffet Foundation","1/16/2024",2
+"17","access","education","Howard G. Buffet Foundation","1/18/2024",2
+"18","access","education","IKEA Foundation","1/16/2024",6
+"19","access","education","IKEA Foundation","1/18/2024",6
+"20","access","education","IKEA Foundation ","1/16/2024",246
+"21","access","education","IKEA Foundation ","1/18/2024",246
+"22","access","education","Mc Arthur Foundation","1/16/2024",41
+"23","access","education","Mc Arthur Foundation","1/18/2024",41
+"24","access","education","Sean Parker Foundation","1/16/2024",2
+"25","access","education","Sean Parker Foundation","1/18/2024",2
+"26","accessions","education","Alliance","1/18/2024",3
+"27","action","climate","Alliance","1/18/2024",43
+"28","action","climate","Bloomberg Philantrhopies","1/16/2024",64
+"29","action","climate","Bloomberg Philantrhopies","1/18/2024",64
+"30","action","climate","Howard G. Buffet Foundation","1/16/2024",21
+"31","action","climate","Howard G. Buffet Foundation","1/18/2024",21
+"32","action","climate","IKEA Foundation","1/16/2024",18
+"33","action","climate","IKEA Foundation","1/18/2024",18
+"34","action","climate","IKEA Foundation ","1/16/2024",241
+"35","action","climate","IKEA Foundation ","1/18/2024",241
+"36","action","climate","Mc Arthur Foundation","1/16/2024",125
+"37","action","climate","Mc Arthur Foundation","1/18/2024",125
+"38","action","climate","Sean Parker Foundation","1/16/2024",6
+"39","action","climate","Sean Parker Foundation","1/18/2024",6
+"40","africa","region","Alliance","1/18/2024",69
+"41","africa","region","Bloomberg Philantrhopies","1/16/2024",8
+"42","africa","region","Bloomberg Philantrhopies","1/18/2024",8
+"43","africa","region","Howard G. Buffet Foundation","1/16/2024",4
+"44","africa","region","Howard G. Buffet Foundation","1/18/2024",4
+"45","africa","region","IKEA Foundation","1/16/2024",14
+"46","africa","region","IKEA Foundation","1/18/2024",14
+"47","africa","region","IKEA Foundation ","1/16/2024",55
+"48","africa","region","IKEA Foundation ","1/18/2024",55
+"49","africa","region","Mc Arthur Foundation","1/16/2024",6
+"50","africa","region","Mc Arthur Foundation","1/18/2024",6
+"51","africa","region","Sean Parker Foundation","1/16/2024",2
+"52","africa","region","Sean Parker Foundation","1/18/2024",2
+"53","agricultural","environment","Alliance","1/18/2024",42
+"54","agricultural","environment","Howard G. Buffet Foundation","1/18/2024",28
+"55","agricultural","environment","IKEA Foundation","1/18/2024",8
+"56","agricultural","environment","IKEA Foundation ","1/16/2024",193
+"57","agricultural","environment","IKEA Foundation ","1/18/2024",193
+"58","agricultural","environment","Mc Arthur Foundation","1/16/2024",2
+"59","agricultural","environment","Mc Arthur Foundation","1/18/2024",2
+"60","agriculture","environment","Alliance","1/18/2024",70
+"61","agriculture","environment","Howard G. Buffet Foundation","1/18/2024",55
+"62","agriculture","environment","IKEA Foundation","1/18/2024",9
+"63","agriculture","environment","IKEA Foundation ","1/16/2024",356
+"64","agriculture","environment","IKEA Foundation ","1/18/2024",356
+"65","agriculture","environment","Mc Arthur Foundation","1/16/2024",9
+"66","agriculture","environment","Mc Arthur Foundation","1/18/2024",9
+"67","agronomist","environment","Howard G. Buffet Foundation","1/18/2024",1
+"68","agronomist","environment","IKEA Foundation ","1/16/2024",1
+"69","agronomist","environment","IKEA Foundation ","1/18/2024",1
+"70","agronomy","environment","Alliance","1/18/2024",2
+"71","agronomy","environment","IKEA Foundation ","1/16/2024",1
+"72","agronomy","environment","IKEA Foundation ","1/18/2024",1
+"73","air","climate","IKEA Foundation ","1/16/2024",10
+"74","air","climate","IKEA Foundation ","1/18/2024",10
+"75","air","climate","Mc Arthur Foundation","1/16/2024",39
+"76","air","climate","Mc Arthur Foundation","1/18/2024",39
+"77","analysis","research","Alliance","1/18/2024",13
+"78","analysis","research","Bloomberg Philantrhopies","1/16/2024",6
+"79","analysis","research","Bloomberg Philantrhopies","1/18/2024",6
+"80","analysis","research","IKEA Foundation","1/16/2024",1
+"81","analysis","research","IKEA Foundation","1/18/2024",1
+"82","analysis","research","IKEA Foundation ","1/16/2024",277
+"83","analysis","research","IKEA Foundation ","1/18/2024",277
+"84","analysis","research","Mc Arthur Foundation","1/16/2024",33
+"85","analysis","research","Mc Arthur Foundation","1/18/2024",33
+"86","analysis","research","Sean Parker Foundation","1/16/2024",1
+"87","analysis","research","Sean Parker Foundation","1/18/2024",1
+"88","analyze","research","Alliance","1/18/2024",3
+"89","analyze","research","Bloomberg Philantrhopies","1/16/2024",2
+"90","analyze","research","Bloomberg Philantrhopies","1/18/2024",2
+"91","analyze","research","IKEA Foundation ","1/16/2024",1
+"92","analyze","research","IKEA Foundation ","1/18/2024",1
+"93","analyze","research","Mc Arthur Foundation","1/16/2024",5
+"94","analyze","research","Mc Arthur Foundation","1/18/2024",5
+"95","animals","environment","Alliance","1/18/2024",1
+"96","animals","environment","Howard G. Buffet Foundation","1/16/2024",2
+"97","animals","environment","Howard G. Buffet Foundation","1/18/2024",2
+"98","animals","environment","IKEA Foundation ","1/16/2024",60
+"99","animals","environment","IKEA Foundation ","1/18/2024",60
+"100","animals","environment","Mc Arthur Foundation","1/16/2024",2
+"101","animals","environment","Mc Arthur Foundation","1/18/2024",2
+"102","archive","research","IKEA Foundation","1/16/2024",6
+"103","archive","research","IKEA Foundation","1/18/2024",6
+"104","archive","research","Mc Arthur Foundation","1/16/2024",1
+"105","archive","research","Mc Arthur Foundation","1/18/2024",1
+"106","archive","research","Sean Parker Foundation","1/16/2024",1
+"107","archive","research","Sean Parker Foundation","1/18/2024",1
+"108","atmosphere","climate","Mc Arthur Foundation","1/16/2024",1
+"109","atmosphere","climate","Mc Arthur Foundation","1/18/2024",2
+"110","atmospheric","climate","IKEA Foundation ","1/16/2024",1
+"111","atmospheric","climate","IKEA Foundation ","1/18/2024",1
+"112","atmospheric","climate","Mc Arthur Foundation","1/16/2024",9
+"113","atmospheric","climate","Mc Arthur Foundation","1/18/2024",9
+"114","boy","gender","IKEA Foundation ","1/16/2024",1
+"115","boy","gender","IKEA Foundation ","1/18/2024",1
+"116","capabilities","education","Alliance","1/18/2024",2
+"117","capabilities","education","Bloomberg Philantrhopies","1/18/2024",2
+"118","capabilities","education","IKEA Foundation ","1/16/2024",6
+"119","capabilities","education","IKEA Foundation ","1/18/2024",6
+"120","capabilities","education","Mc Arthur Foundation","1/16/2024",1
+"121","capabilities","education","Mc Arthur Foundation","1/18/2024",1
+"122","capabilities","education","Sean Parker Foundation","1/18/2024",1
+"123","carbohydrates","food_system","Alliance","1/18/2024",1
+"124","care","gender","IKEA Foundation ","1/16/2024",19
+"125","care","gender","IKEA Foundation ","1/18/2024",19
+"126","care","gender","Mc Arthur Foundation","1/16/2024",2
+"127","care","gender","Mc Arthur Foundation","1/18/2024",2
+"128","cases","research","IKEA Foundation","1/16/2024",1
+"129","cases","research","IKEA Foundation","1/18/2024",1
+"130","cases","research","IKEA Foundation ","1/16/2024",39
+"131","cases","research","IKEA Foundation ","1/18/2024",39
+"132","cases","research","Mc Arthur Foundation","1/16/2024",13
+"133","cases","research","Mc Arthur Foundation","1/18/2024",13
+"134","cases","research","Sean Parker Foundation","1/16/2024",3
+"135","cases","research","Sean Parker Foundation","1/18/2024",3
+"136","certificate","education","IKEA Foundation","1/18/2024",6
+"137","certificate","education","IKEA Foundation ","1/16/2024",89
+"138","certificate","education","IKEA Foundation ","1/18/2024",89
+"139","circulation","climate","IKEA Foundation ","1/16/2024",2
+"140","circulation","climate","IKEA Foundation ","1/18/2024",2
+"141","classroom","education","Bloomberg Philantrhopies","1/16/2024",5
+"142","classroom","education","Bloomberg Philantrhopies","1/18/2024",5
+"143","classroom","education","IKEA Foundation ","1/16/2024",5
+"144","classroom","education","IKEA Foundation ","1/18/2024",5
+"145","climate","climate","Alliance","1/18/2024",107
+"146","climate","climate","Bloomberg Philantrhopies","1/16/2024",188
+"147","climate","climate","Bloomberg Philantrhopies","1/18/2024",187
+"148","climate","climate","IKEA Foundation","1/16/2024",55
+"149","climate","climate","IKEA Foundation","1/18/2024",55
+"150","climate","climate","IKEA Foundation ","1/16/2024",533
+"151","climate","climate","IKEA Foundation ","1/18/2024",533
+"152","climate","climate","Mc Arthur Foundation","1/16/2024",1265
+"153","climate","climate","Mc Arthur Foundation","1/18/2024",1265
+"154","climate","climate","Sean Parker Foundation","1/16/2024",1
+"155","climate","climate","Sean Parker Foundation","1/18/2024",1
+"156","cloudy","climate","IKEA Foundation ","1/16/2024",1
+"157","cloudy","climate","IKEA Foundation ","1/18/2024",1
+"158","collaboration","research","Alliance","1/18/2024",11
+"159","collaboration","research","Bloomberg Philantrhopies","1/18/2024",18
+"160","collaboration","research","IKEA Foundation","1/18/2024",6
+"161","collaboration","research","IKEA Foundation ","1/16/2024",154
+"162","collaboration","research","IKEA Foundation ","1/18/2024",154
+"163","collaboration","research","Mc Arthur Foundation","1/16/2024",23
+"164","collaboration","research","Mc Arthur Foundation","1/18/2024",33
+"165","collaboration","research","Sean Parker Foundation","1/18/2024",5
+"166","collection","research","Alliance","1/18/2024",6
+"167","collection","research","Bloomberg Philantrhopies","1/18/2024",24
+"168","collection","research","Howard G. Buffet Foundation","1/18/2024",5
+"169","collection","research","IKEA Foundation ","1/16/2024",152
+"170","collection","research","IKEA Foundation ","1/18/2024",152
+"171","collection","research","Mc Arthur Foundation","1/16/2024",4
+"172","collection","research","Mc Arthur Foundation","1/18/2024",7
+"173","collection","research","Sean Parker Foundation","1/18/2024",9
+"174","combat","climate","Alliance","1/18/2024",1
+"175","combat","climate","Bloomberg Philantrhopies","1/16/2024",5
+"176","combat","climate","Bloomberg Philantrhopies","1/18/2024",5
+"177","combat","climate","Howard G. Buffet Foundation","1/16/2024",12
+"178","combat","climate","Howard G. Buffet Foundation","1/18/2024",12
+"179","combat","climate","IKEA Foundation ","1/16/2024",1
+"180","combat","climate","IKEA Foundation ","1/18/2024",1
+"181","combat","climate","Mc Arthur Foundation","1/16/2024",5
+"182","combat","climate","Mc Arthur Foundation","1/18/2024",5
+"183","combat","climate","Sean Parker Foundation","1/16/2024",1
+"184","combat","climate","Sean Parker Foundation","1/18/2024",1
+"185","combustion","climate","Mc Arthur Foundation","1/16/2024",2
+"186","combustion","climate","Mc Arthur Foundation","1/18/2024",2
+"187","communication","communities","Bloomberg Philantrhopies","1/18/2024",1
+"188","communication","communities","IKEA Foundation ","1/16/2024",60
+"189","communication","communities","IKEA Foundation ","1/18/2024",60
+"190","communication","communities","Mc Arthur Foundation","1/16/2024",6
+"191","communication","communities","Mc Arthur Foundation","1/18/2024",48
+"192","communication","communities","Sean Parker Foundation","1/18/2024",1
+"193","community","communities","Alliance","1/18/2024",1
+"194","community","communities","Bloomberg Philantrhopies","1/16/2024",28
+"195","community","communities","Bloomberg Philantrhopies","1/18/2024",28
+"196","community","communities","Howard G. Buffet Foundation","1/16/2024",11
+"197","community","communities","Howard G. Buffet Foundation","1/18/2024",11
+"198","community","communities","IKEA Foundation","1/16/2024",2
+"199","community","communities","IKEA Foundation","1/18/2024",2
+"200","community","communities","IKEA Foundation ","1/16/2024",307
+"201","community","communities","IKEA Foundation ","1/18/2024",307
+"202","community","communities","Mc Arthur Foundation","1/16/2024",84
+"203","community","communities","Mc Arthur Foundation","1/18/2024",84
+"204","community","communities","Sean Parker Foundation","1/16/2024",7
+"205","community","communities","Sean Parker Foundation","1/18/2024",7
+"206","comprehension","education","IKEA Foundation ","1/16/2024",1
+"207","comprehension","education","IKEA Foundation ","1/18/2024",1
+"208","concept","education","Bloomberg Philantrhopies","1/16/2024",2
+"209","concept","education","IKEA Foundation","1/16/2024",1
+"210","concept","education","IKEA Foundation","1/18/2024",1
+"211","concept","education","IKEA Foundation ","1/16/2024",28
+"212","concept","education","IKEA Foundation ","1/18/2024",28
+"213","concept","education","Mc Arthur Foundation","1/16/2024",6
+"214","concept","education","Mc Arthur Foundation","1/18/2024",6
+"215","concept","education","Sean Parker Foundation","1/16/2024",1
+"216","concept","education","Sean Parker Foundation","1/18/2024",1
+"217","conference","education","Alliance","1/18/2024",3
+"218","conference","education","Bloomberg Philantrhopies","1/18/2024",6
+"219","conference","education","IKEA Foundation","1/18/2024",1
+"220","conference","education","IKEA Foundation ","1/16/2024",8
+"221","conference","education","IKEA Foundation ","1/18/2024",8
+"222","conference","education","Mc Arthur Foundation","1/16/2024",14
+"223","conference","education","Mc Arthur Foundation","1/18/2024",14
+"224","connect","communities","Alliance","1/18/2024",1
+"225","connect","communities","Bloomberg Philantrhopies","1/16/2024",12
+"226","connect","communities","Bloomberg Philantrhopies","1/18/2024",12
+"227","connect","communities","IKEA Foundation ","1/16/2024",11
+"228","connect","communities","IKEA Foundation ","1/18/2024",11
+"229","connect","communities","Mc Arthur Foundation","1/16/2024",48
+"230","connect","communities","Mc Arthur Foundation","1/18/2024",48
+"231","connect","communities","Sean Parker Foundation","1/16/2024",8
+"232","connect","communities","Sean Parker Foundation","1/18/2024",8
+"233","conservation","environment","Alliance","1/18/2024",23
+"234","conservation","environment","Bloomberg Philantrhopies","1/18/2024",16
+"235","conservation","environment","Howard G. Buffet Foundation","1/18/2024",30
+"236","conservation","environment","IKEA Foundation","1/18/2024",2
+"237","conservation","environment","IKEA Foundation ","1/16/2024",136
+"238","conservation","environment","IKEA Foundation ","1/18/2024",136
+"239","conservation","environment","Mc Arthur Foundation","1/16/2024",7
+"240","conservation","environment","Mc Arthur Foundation","1/18/2024",10
+"241","conservation","environment","Sean Parker Foundation","1/18/2024",1
+"242","consumers","food_system","Alliance","1/18/2024",7
+"243","consumers","food_system","IKEA Foundation ","1/16/2024",2
+"244","consumers","food_system","IKEA Foundation ","1/18/2024",2
+"245","consumers","food_system","Mc Arthur Foundation","1/16/2024",5
+"246","consumers","food_system","Mc Arthur Foundation","1/18/2024",5
+"247","cooperation","education","Alliance","1/18/2024",1
+"248","cooperation","education","IKEA Foundation","1/18/2024",2
+"249","cooperation","education","IKEA Foundation ","1/16/2024",30
+"250","cooperation","education","IKEA Foundation ","1/18/2024",30
+"251","cooperation","education","Mc Arthur Foundation","1/16/2024",6
+"252","cooperation","education","Mc Arthur Foundation","1/18/2024",6
+"253","coordination","communities","Alliance","1/18/2024",3
+"254","coordination","communities","IKEA Foundation ","1/16/2024",61
+"255","coordination","communities","IKEA Foundation ","1/18/2024",61
+"256","coordination","communities","Mc Arthur Foundation","1/16/2024",4
+"257","coordination","communities","Mc Arthur Foundation","1/18/2024",4
+"258","coordination","communities","Sean Parker Foundation","1/18/2024",1
+"259","countries","region","Alliance","1/18/2024",17
+"260","countries","region","Bloomberg Philantrhopies","1/16/2024",65
+"261","countries","region","Bloomberg Philantrhopies","1/18/2024",64
+"262","countries","region","Howard G. Buffet Foundation","1/16/2024",34
+"263","countries","region","Howard G. Buffet Foundation","1/18/2024",34
+"264","countries","region","IKEA Foundation","1/16/2024",6
+"265","countries","region","IKEA Foundation","1/18/2024",6
+"266","countries","region","IKEA Foundation ","1/16/2024",75
+"267","countries","region","IKEA Foundation ","1/18/2024",75
+"268","countries","region","Mc Arthur Foundation","1/16/2024",66
+"269","countries","region","Mc Arthur Foundation","1/18/2024",66
+"270","countries","region","Sean Parker Foundation","1/16/2024",1
+"271","countries","region","Sean Parker Foundation","1/18/2024",1
+"272","create","education","Alliance","1/18/2024",3
+"273","create","education","Bloomberg Philantrhopies","1/16/2024",33
+"274","create","education","Bloomberg Philantrhopies","1/18/2024",35
+"275","create","education","Howard G. Buffet Foundation","1/16/2024",1
+"276","create","education","Howard G. Buffet Foundation","1/18/2024",1
+"277","create","education","IKEA Foundation","1/16/2024",13
+"278","create","education","IKEA Foundation","1/18/2024",13
+"279","create","education","IKEA Foundation ","1/16/2024",104
+"280","create","education","IKEA Foundation ","1/18/2024",104
+"281","create","education","Mc Arthur Foundation","1/16/2024",122
+"282","create","education","Mc Arthur Foundation","1/18/2024",122
+"283","create","education","Sean Parker Foundation","1/16/2024",4
+"284","create","education","Sean Parker Foundation","1/18/2024",4
+"285","creativity","education","Bloomberg Philantrhopies","1/18/2024",3
+"286","creativity","education","Mc Arthur Foundation","1/18/2024",5
+"287","crop","environment","IKEA Foundation ","1/16/2024",86
+"288","crop","environment","IKEA Foundation ","1/18/2024",86
+"289","crops","food_system","Alliance","1/18/2024",63
+"290","crops","food_system","IKEA Foundation ","1/16/2024",143
+"291","crops","food_system","IKEA Foundation ","1/18/2024",143
+"292","crops","food_system","Mc Arthur Foundation","1/16/2024",2
+"293","crops","food_system","Mc Arthur Foundation","1/18/2024",2
+"294","cultivation","food_system","Alliance","1/18/2024",3
+"295","cultivation","food_system","Howard G. Buffet Foundation","1/18/2024",1
+"296","cultivation","food_system","IKEA Foundation ","1/16/2024",27
+"297","cultivation","food_system","IKEA Foundation ","1/18/2024",27
+"298","dairy","food_system","Alliance","1/18/2024",1
+"299","dairy","food_system","IKEA Foundation ","1/16/2024",58
+"300","dairy","food_system","IKEA Foundation ","1/18/2024",58
+"301","data","research","IKEA Foundation ","1/16/2024",486
+"302","data","research","IKEA Foundation ","1/18/2024",486
+"303","data","research","Mc Arthur Foundation","1/16/2024",169
+"304","data","research","Mc Arthur Foundation","1/18/2024",169
+"305","department","region","Bloomberg Philantrhopies","1/18/2024",9
+"306","department","region","IKEA Foundation ","1/16/2024",34
+"307","department","region","IKEA Foundation ","1/18/2024",34
+"308","department","region","Mc Arthur Foundation","1/16/2024",13
+"309","department","region","Mc Arthur Foundation","1/18/2024",17
+"310","department","region","Sean Parker Foundation","1/18/2024",4
+"311","detect","climate","Howard G. Buffet Foundation","1/16/2024",7
+"312","detect","climate","Howard G. Buffet Foundation","1/18/2024",7
+"313","detect","climate","IKEA Foundation ","1/16/2024",7
+"314","detect","climate","IKEA Foundation ","1/18/2024",7
+"315","detect","climate","Mc Arthur Foundation","1/16/2024",2
+"316","detect","climate","Mc Arthur Foundation","1/18/2024",2
+"317","development","education","Alliance","1/18/2024",54
+"318","development","education","Bloomberg Philantrhopies","1/18/2024",69
+"319","development","education","Howard G. Buffet Foundation","1/18/2024",62
+"320","development","education","IKEA Foundation","1/18/2024",18
+"321","development","education","IKEA Foundation ","1/16/2024",509
+"322","development","education","IKEA Foundation ","1/18/2024",509
+"323","development","education","Mc Arthur Foundation","1/16/2024",58
+"324","development","education","Mc Arthur Foundation","1/18/2024",80
+"325","development","education","Sean Parker Foundation","1/18/2024",8
+"326","diet","food_system","IKEA Foundation ","1/16/2024",1
+"327","diet","food_system","IKEA Foundation ","1/18/2024",1
+"328","discipline","education","IKEA Foundation ","1/16/2024",1
+"329","discipline","education","IKEA Foundation ","1/18/2024",1
+"330","discover","research","Alliance","1/18/2024",52
+"331","discover","research","IKEA Foundation ","1/16/2024",2
+"332","discover","research","IKEA Foundation ","1/18/2024",2
+"333","discover","research","Mc Arthur Foundation","1/16/2024",41
+"334","discover","research","Mc Arthur Foundation","1/18/2024",41
+"335","discover","research","Sean Parker Foundation","1/16/2024",6
+"336","discover","research","Sean Parker Foundation","1/18/2024",6
+"337","discrimination","gender","IKEA Foundation ","1/16/2024",3
+"338","discrimination","gender","IKEA Foundation ","1/18/2024",3
+"339","disease","environment","Alliance","1/18/2024",11
+"340","disease","environment","Bloomberg Philantrhopies","1/16/2024",4
+"341","disease","environment","Bloomberg Philantrhopies","1/18/2024",4
+"342","disease","environment","IKEA Foundation ","1/16/2024",9
+"343","disease","environment","IKEA Foundation ","1/18/2024",9
+"344","disease","environment","Sean Parker Foundation","1/16/2024",11
+"345","disease","environment","Sean Parker Foundation","1/18/2024",11
+"346","diversification","food_system","IKEA Foundation ","1/16/2024",33
+"347","diversification","food_system","IKEA Foundation ","1/18/2024",33
+"348","documents","education","Alliance","1/18/2024",1
+"349","documents","education","Howard G. Buffet Foundation","1/16/2024",3
+"350","documents","education","Howard G. Buffet Foundation","1/18/2024",3
+"351","documents","education","IKEA Foundation","1/16/2024",25
+"352","documents","education","IKEA Foundation","1/18/2024",25
+"353","documents","education","IKEA Foundation ","1/16/2024",64
+"354","documents","education","IKEA Foundation ","1/18/2024",64
+"355","documents","education","Mc Arthur Foundation","1/16/2024",6
+"356","documents","education","Mc Arthur Foundation","1/18/2024",6
+"357","ecologist","environment","Alliance","1/18/2024",1
+"358","ecology","environment","IKEA Foundation","1/16/2024",2
+"359","ecology","environment","IKEA Foundation","1/18/2024",2
+"360","ecology","environment","Mc Arthur Foundation","1/16/2024",3
+"361","ecology","environment","Mc Arthur Foundation","1/18/2024",3
+"362","ecosystem","environment","Alliance","1/18/2024",6
+"363","ecosystem","environment","IKEA Foundation","1/16/2024",2
+"364","ecosystem","environment","IKEA Foundation","1/18/2024",2
+"365","ecosystem","environment","IKEA Foundation ","1/16/2024",140
+"366","ecosystem","environment","IKEA Foundation ","1/18/2024",140
+"367","ecosystem","environment","Mc Arthur Foundation","1/16/2024",5
+"368","ecosystem","environment","Mc Arthur Foundation","1/18/2024",5
+"369","ecosystems","environment","Alliance","1/18/2024",5
+"370","ecosystems","environment","Bloomberg Philantrhopies","1/18/2024",10
+"371","ecosystems","environment","Howard G. Buffet Foundation","1/18/2024",2
+"372","ecosystems","environment","IKEA Foundation","1/18/2024",1
+"373","ecosystems","environment","IKEA Foundation ","1/16/2024",39
+"374","ecosystems","environment","IKEA Foundation ","1/18/2024",39
+"375","ecosystems","environment","Mc Arthur Foundation","1/18/2024",2
+"376","edible","food_system","Alliance","1/18/2024",1
+"377","education","education","Alliance","1/18/2024",1
+"378","education","education","Bloomberg Philantrhopies","1/16/2024",319
+"379","education","education","Bloomberg Philantrhopies","1/18/2024",321
+"380","education","education","Howard G. Buffet Foundation","1/16/2024",2
+"381","education","education","Howard G. Buffet Foundation","1/18/2024",2
+"382","education","education","IKEA Foundation ","1/16/2024",175
+"383","education","education","IKEA Foundation ","1/18/2024",175
+"384","education","education","Mc Arthur Foundation","1/16/2024",11
+"385","education","education","Mc Arthur Foundation","1/18/2024",11
+"386","education","education","Sean Parker Foundation","1/16/2024",11
+"387","education","education","Sean Parker Foundation","1/18/2024",11
+"388","elaborate","environment","IKEA Foundation ","1/16/2024",1
+"389","elaborate","environment","IKEA Foundation ","1/18/2024",1
+"390","energy","environment","Alliance","1/18/2024",1
+"391","energy","environment","Bloomberg Philantrhopies","1/16/2024",53
+"392","energy","environment","Bloomberg Philantrhopies","1/18/2024",53
+"393","energy","environment","IKEA Foundation","1/16/2024",38
+"394","energy","environment","IKEA Foundation","1/18/2024",38
+"395","energy","environment","IKEA Foundation ","1/16/2024",310
+"396","energy","environment","IKEA Foundation ","1/18/2024",310
+"397","energy","environment","Mc Arthur Foundation","1/16/2024",717
+"398","energy","environment","Mc Arthur Foundation","1/18/2024",717
+"399","engineering","education","Alliance","1/18/2024",1
+"400","engineering","education","Bloomberg Philantrhopies","1/18/2024",1
+"401","engineering","education","IKEA Foundation ","1/16/2024",34
+"402","engineering","education","IKEA Foundation ","1/18/2024",34
+"403","engineering","education","Sean Parker Foundation","1/18/2024",2
+"404","environment","environment","Alliance","1/18/2024",46
+"405","environment","environment","Bloomberg Philantrhopies","1/18/2024",223
+"406","environment","environment","Howard G. Buffet Foundation","1/18/2024",3
+"407","environment","environment","IKEA Foundation","1/18/2024",6
+"408","environment","environment","IKEA Foundation ","1/16/2024",140
+"409","environment","environment","IKEA Foundation ","1/18/2024",140
+"410","environment","environment","Mc Arthur Foundation","1/16/2024",45
+"411","environment","environment","Mc Arthur Foundation","1/18/2024",55
+"412","environment","environment","Sean Parker Foundation","1/18/2024",1
+"413","environmental","environment","Alliance","1/18/2024",16
+"414","environmental","environment","Bloomberg Philantrhopies","1/18/2024",9
+"415","environmental","environment","Howard G. Buffet Foundation","1/18/2024",2
+"416","environmental","environment","IKEA Foundation","1/18/2024",8
+"417","environmental","environment","IKEA Foundation ","1/16/2024",130
+"418","environmental","environment","IKEA Foundation ","1/18/2024",130
+"419","environmental","environment","Mc Arthur Foundation","1/16/2024",98
+"420","environmental","environment","Mc Arthur Foundation","1/18/2024",101
+"421","environmental","environment","Sean Parker Foundation","1/18/2024",1
+"422","examine","research","IKEA Foundation ","1/16/2024",14
+"423","examine","research","IKEA Foundation ","1/18/2024",14
+"424","examine","research","Mc Arthur Foundation","1/16/2024",6
+"425","examine","research","Mc Arthur Foundation","1/18/2024",6
+"426","excess","food_system","Alliance","1/18/2024",2
+"427","excess","food_system","Mc Arthur Foundation","1/16/2024",1
+"428","excess","food_system","Mc Arthur Foundation","1/18/2024",1
+"429","expert","research","Alliance","1/18/2024",4
+"430","expert","research","IKEA Foundation ","1/16/2024",10
+"431","expert","research","IKEA Foundation ","1/18/2024",10
+"432","expert","research","Mc Arthur Foundation","1/16/2024",3
+"433","expert","research","Mc Arthur Foundation","1/18/2024",3
+"434","expert","research","Sean Parker Foundation","1/16/2024",1
+"435","expert","research","Sean Parker Foundation","1/18/2024",1
+"436","exploitation","food_system","IKEA Foundation","1/18/2024",1
+"437","exploitation","food_system","IKEA Foundation ","1/16/2024",8
+"438","exploitation","food_system","IKEA Foundation ","1/18/2024",8
+"439","exploitation","food_system","Mc Arthur Foundation","1/16/2024",1
+"440","exploitation","food_system","Mc Arthur Foundation","1/18/2024",1
+"441","exploration","research","Bloomberg Philantrhopies","1/18/2024",1
+"442","exploration","research","IKEA Foundation ","1/16/2024",1
+"443","exploration","research","IKEA Foundation ","1/18/2024",1
+"444","exploration","research","Mc Arthur Foundation","1/18/2024",10
+"445","explore","research","Alliance","1/18/2024",19
+"446","explore","research","Bloomberg Philantrhopies","1/16/2024",81
+"447","explore","research","Bloomberg Philantrhopies","1/18/2024",80
+"448","explore","research","Howard G. Buffet Foundation","1/16/2024",1
+"449","explore","research","Howard G. Buffet Foundation","1/18/2024",1
+"450","explore","research","IKEA Foundation","1/16/2024",2
+"451","explore","research","IKEA Foundation","1/18/2024",2
+"452","explore","research","IKEA Foundation ","1/16/2024",38
+"453","explore","research","IKEA Foundation ","1/18/2024",38
+"454","explore","research","Mc Arthur Foundation","1/16/2024",24
+"455","explore","research","Mc Arthur Foundation","1/18/2024",24
+"456","faculty","education","Bloomberg Philantrhopies","1/16/2024",3
+"457","faculty","education","Bloomberg Philantrhopies","1/18/2024",3
+"458","faculty","education","IKEA Foundation ","1/16/2024",1
+"459","faculty","education","IKEA Foundation ","1/18/2024",1
+"460","faculty","education","Sean Parker Foundation","1/16/2024",3
+"461","faculty","education","Sean Parker Foundation","1/18/2024",3
+"462","father","gender","Howard G. Buffet Foundation","1/16/2024",1
+"463","father","gender","Howard G. Buffet Foundation","1/18/2024",1
+"464","father","gender","IKEA Foundation ","1/16/2024",2
+"465","father","gender","IKEA Foundation ","1/18/2024",2
+"466","feeding","food_system","IKEA Foundation ","1/16/2024",6
+"467","feeding","food_system","IKEA Foundation ","1/18/2024",6
+"468","field","environment","Alliance","1/18/2024",10
+"469","field","environment","Bloomberg Philantrhopies","1/16/2024",3
+"470","field","environment","Bloomberg Philantrhopies","1/18/2024",3
+"471","field","environment","Howard G. Buffet Foundation","1/16/2024",1
+"472","field","environment","Howard G. Buffet Foundation","1/18/2024",1
+"473","field","environment","IKEA Foundation","1/16/2024",1
+"474","field","environment","IKEA Foundation","1/18/2024",1
+"475","field","environment","IKEA Foundation ","1/16/2024",107
+"476","field","environment","IKEA Foundation ","1/18/2024",107
+"477","field","environment","Mc Arthur Foundation","1/16/2024",90
+"478","field","environment","Mc Arthur Foundation","1/18/2024",90
+"479","field","environment","Sean Parker Foundation","1/16/2024",10
+"480","field","environment","Sean Parker Foundation","1/18/2024",10
+"481","food","food_system","IKEA Foundation ","1/16/2024",246
+"482","food","food_system","IKEA Foundation ","1/18/2024",246
+"483","food","food_system","Mc Arthur Foundation","1/16/2024",2
+"484","food","food_system","Mc Arthur Foundation","1/18/2024",2
+"485","footprint","environment","Alliance","1/18/2024",1
+"486","footprint","environment","IKEA Foundation ","1/16/2024",13
+"487","footprint","environment","IKEA Foundation ","1/18/2024",13
+"488","footprint","environment","Mc Arthur Foundation","1/16/2024",4
+"489","footprint","environment","Mc Arthur Foundation","1/18/2024",4
+"490","forecast","climate","Alliance","1/18/2024",1
+"491","forecast","climate","IKEA Foundation ","1/16/2024",1
+"492","forecast","climate","IKEA Foundation ","1/18/2024",1
+"493","forests","climate","Howard G. Buffet Foundation","1/16/2024",1
+"494","forests","climate","Howard G. Buffet Foundation","1/18/2024",1
+"495","forests","climate","IKEA Foundation ","1/16/2024",62
+"496","forests","climate","IKEA Foundation ","1/18/2024",62
+"497","formative","education","IKEA Foundation ","1/16/2024",2
+"498","formative","education","IKEA Foundation ","1/18/2024",2
+"499","friendship","gender","IKEA Foundation ","1/16/2024",4
+"500","friendship","gender","IKEA Foundation ","1/18/2024",4
+"501","gases","climate","Alliance","1/18/2024",1
+"502","gases","climate","Mc Arthur Foundation","1/16/2024",20
+"503","gases","climate","Mc Arthur Foundation","1/18/2024",20
+"504","gender","gender","Alliance","1/18/2024",60
+"505","gender","gender","IKEA Foundation ","1/16/2024",94
+"506","gender","gender","IKEA Foundation ","1/18/2024",94
+"507","gender","gender","Mc Arthur Foundation","1/16/2024",6
+"508","gender","gender","Mc Arthur Foundation","1/18/2024",6
+"509","genetics","environment","Alliance","1/18/2024",3
+"510","genetics","environment","Mc Arthur Foundation","1/16/2024",2
+"511","genetics","environment","Mc Arthur Foundation","1/18/2024",2
+"512","genetics","environment","Sean Parker Foundation","1/16/2024",2
+"513","genetics","environment","Sean Parker Foundation","1/18/2024",2
+"514","geography","environment","IKEA Foundation ","1/16/2024",14
+"515","geography","environment","IKEA Foundation ","1/18/2024",14
+"516","geography","environment","Mc Arthur Foundation","1/16/2024",1
+"517","geography","environment","Mc Arthur Foundation","1/18/2024",1
+"518","global","region","Alliance","1/18/2024",51
+"519","global","region","Bloomberg Philantrhopies","1/16/2024",136
+"520","global","region","Bloomberg Philantrhopies","1/18/2024",135
+"521","global","region","Howard G. Buffet Foundation","1/16/2024",11
+"522","global","region","Howard G. Buffet Foundation","1/18/2024",11
+"523","global","region","IKEA Foundation","1/16/2024",23
+"524","global","region","IKEA Foundation","1/18/2024",23
+"525","global","region","IKEA Foundation ","1/16/2024",162
+"526","global","region","IKEA Foundation ","1/18/2024",162
+"527","global","region","Mc Arthur Foundation","1/16/2024",185
+"528","global","region","Mc Arthur Foundation","1/18/2024",185
+"529","global","region","Sean Parker Foundation","1/16/2024",57
+"530","global","region","Sean Parker Foundation","1/18/2024",56
+"531","habitat","environment","Howard G. Buffet Foundation","1/16/2024",1
+"532","habitat","environment","Howard G. Buffet Foundation","1/18/2024",1
+"533","habitat","environment","IKEA Foundation ","1/16/2024",5
+"534","habitat","environment","IKEA Foundation ","1/18/2024",5
+"535","harvest","food_system","Alliance","1/18/2024",3
+"536","harvest","food_system","Bloomberg Philantrhopies","1/16/2024",2
+"537","harvest","food_system","Bloomberg Philantrhopies","1/18/2024",2
+"538","harvest","food_system","IKEA Foundation ","1/16/2024",32
+"539","harvest","food_system","IKEA Foundation ","1/18/2024",32
+"540","harvested","food_system","IKEA Foundation ","1/16/2024",13
+"541","harvested","food_system","IKEA Foundation ","1/18/2024",13
+"542","human","communities","Alliance","1/18/2024",5
+"543","human","communities","Howard G. Buffet Foundation","1/16/2024",30
+"544","human","communities","Howard G. Buffet Foundation","1/18/2024",30
+"545","human","communities","IKEA Foundation","1/16/2024",1
+"546","human","communities","IKEA Foundation","1/18/2024",1
+"547","human","communities","IKEA Foundation ","1/16/2024",71
+"548","human","communities","IKEA Foundation ","1/18/2024",71
+"549","human","communities","Mc Arthur Foundation","1/16/2024",10
+"550","human","communities","Mc Arthur Foundation","1/18/2024",10
+"551","human","communities","Sean Parker Foundation","1/16/2024",3
+"552","human","communities","Sean Parker Foundation","1/18/2024",3
+"553","hunger","food_system","Alliance","1/18/2024",2
+"554","hunger","food_system","Howard G. Buffet Foundation","1/16/2024",16
+"555","hunger","food_system","Howard G. Buffet Foundation","1/18/2024",16
+"556","hunger","food_system","IKEA Foundation ","1/16/2024",1
+"557","hunger","food_system","IKEA Foundation ","1/18/2024",1
+"558","husband","gender","IKEA Foundation ","1/16/2024",17
+"559","husband","gender","IKEA Foundation ","1/18/2024",17
+"560","idea","education","IKEA Foundation ","1/16/2024",17
+"561","idea","education","IKEA Foundation ","1/18/2024",17
+"562","idea","education","Mc Arthur Foundation","1/16/2024",2
+"563","idea","education","Mc Arthur Foundation","1/18/2024",2
+"564","identification","gender","IKEA Foundation ","1/16/2024",14
+"565","identification","gender","IKEA Foundation ","1/18/2024",14
+"566","identification","gender","Mc Arthur Foundation","1/16/2024",1
+"567","identification","gender","Mc Arthur Foundation","1/18/2024",1
+"568","impact","region","Alliance","1/18/2024",50
+"569","impact","region","Bloomberg Philantrhopies","1/16/2024",63
+"570","impact","region","Bloomberg Philantrhopies","1/18/2024",62
+"571","impact","region","Howard G. Buffet Foundation","1/16/2024",7
+"572","impact","region","Howard G. Buffet Foundation","1/18/2024",7
+"573","impact","region","IKEA Foundation","1/16/2024",74
+"574","impact","region","IKEA Foundation","1/18/2024",74
+"575","impact","region","IKEA Foundation ","1/16/2024",500
+"576","impact","region","IKEA Foundation ","1/18/2024",500
+"577","impact","region","Mc Arthur Foundation","1/16/2024",185
+"578","impact","region","Mc Arthur Foundation","1/18/2024",185
+"579","impact","region","Sean Parker Foundation","1/16/2024",8
+"580","impact","region","Sean Parker Foundation","1/18/2024",8
+"581","information","education","Alliance","1/18/2024",23
+"582","information","education","Bloomberg Philantrhopies","1/18/2024",37
+"583","information","education","IKEA Foundation","1/18/2024",50
+"584","information","education","IKEA Foundation ","1/16/2024",211
+"585","information","education","IKEA Foundation ","1/18/2024",211
+"586","information","education","Mc Arthur Foundation","1/16/2024",80
+"587","information","education","Mc Arthur Foundation","1/18/2024",265
+"588","information","education","Sean Parker Foundation","1/18/2024",29
+"589","inhabitants","communities","IKEA Foundation ","1/16/2024",2
+"590","inhabitants","communities","IKEA Foundation ","1/18/2024",2
+"591","inquiry","research","Mc Arthur Foundation","1/16/2024",3
+"592","inquiry","research","Mc Arthur Foundation","1/18/2024",3
+"593","intelligence","education","Alliance","1/18/2024",1
+"594","intelligence","education","Bloomberg Philantrhopies","1/18/2024",4
+"595","intelligence","education","IKEA Foundation ","1/16/2024",1
+"596","intelligence","education","IKEA Foundation ","1/18/2024",1
+"597","intelligence","education","Mc Arthur Foundation","1/16/2024",2
+"598","intelligence","education","Mc Arthur Foundation","1/18/2024",3
+"599","interaction","communities","Alliance","1/18/2024",1
+"600","interaction","communities","Bloomberg Philantrhopies","1/18/2024",37
+"601","interaction","communities","IKEA Foundation ","1/16/2024",19
+"602","interaction","communities","IKEA Foundation ","1/18/2024",19
+"603","international","region","Alliance","1/18/2024",64
+"604","international","region","Bloomberg Philantrhopies","1/18/2024",22
+"605","international","region","Howard G. Buffet Foundation","1/18/2024",1
+"606","international","region","IKEA Foundation","1/18/2024",8
+"607","international","region","IKEA Foundation ","1/16/2024",140
+"608","international","region","IKEA Foundation ","1/18/2024",140
+"609","international","region","Mc Arthur Foundation","1/16/2024",77
+"610","international","region","Mc Arthur Foundation","1/18/2024",85
+"611","international","region","Sean Parker Foundation","1/18/2024",2
+"612","justice","communities","Howard G. Buffet Foundation","1/16/2024",10
+"613","justice","communities","Howard G. Buffet Foundation","1/18/2024",10
+"614","justice","communities","IKEA Foundation","1/16/2024",1
+"615","justice","communities","IKEA Foundation","1/18/2024",1
+"616","justice","communities","IKEA Foundation ","1/16/2024",2
+"617","justice","communities","IKEA Foundation ","1/18/2024",2
+"618","justice","communities","Mc Arthur Foundation","1/16/2024",131
+"619","justice","communities","Mc Arthur Foundation","1/18/2024",132
+"620","knowing","research","IKEA Foundation ","1/16/2024",2
+"621","knowing","research","IKEA Foundation ","1/18/2024",2
+"622","knowledge","education","Alliance","1/18/2024",12
+"623","knowledge","education","Bloomberg Philantrhopies","1/16/2024",2
+"624","knowledge","education","Bloomberg Philantrhopies","1/18/2024",2
+"625","knowledge","education","Howard G. Buffet Foundation","1/16/2024",1
+"626","knowledge","education","Howard G. Buffet Foundation","1/18/2024",1
+"627","knowledge","education","IKEA Foundation","1/16/2024",1
+"628","knowledge","education","IKEA Foundation","1/18/2024",1
+"629","knowledge","education","IKEA Foundation ","1/16/2024",116
+"630","knowledge","education","IKEA Foundation ","1/18/2024",116
+"631","knowledge","education","Mc Arthur Foundation","1/16/2024",14
+"632","knowledge","education","Mc Arthur Foundation","1/18/2024",14
+"633","knowledge","education","Sean Parker Foundation","1/16/2024",2
+"634","knowledge","education","Sean Parker Foundation","1/18/2024",2
+"635","labor","education","Alliance","1/18/2024",1
+"636","labor","education","IKEA Foundation ","1/16/2024",27
+"637","labor","education","IKEA Foundation ","1/18/2024",27
+"638","land","environment","IKEA Foundation ","1/16/2024",440
+"639","land","environment","IKEA Foundation ","1/18/2024",440
+"640","land","environment","Mc Arthur Foundation","1/16/2024",8
+"641","land","environment","Mc Arthur Foundation","1/18/2024",8
+"642","leader","communities","Alliance","1/18/2024",12
+"643","leader","communities","Bloomberg Philantrhopies","1/16/2024",3
+"644","leader","communities","Bloomberg Philantrhopies","1/18/2024",3
+"645","leader","communities","Howard G. Buffet Foundation","1/16/2024",1
+"646","leader","communities","Howard G. Buffet Foundation","1/18/2024",1
+"647","leader","communities","IKEA Foundation ","1/16/2024",17
+"648","leader","communities","IKEA Foundation ","1/18/2024",17
+"649","leader","communities","Mc Arthur Foundation","1/16/2024",4
+"650","leader","communities","Mc Arthur Foundation","1/18/2024",4
+"651","leader","communities","Sean Parker Foundation","1/16/2024",5
+"652","leader","communities","Sean Parker Foundation","1/18/2024",5
+"653","learn","communities","Alliance","1/18/2024",6
+"654","learn","communities","Bloomberg Philantrhopies","1/16/2024",82
+"655","learn","communities","Bloomberg Philantrhopies","1/18/2024",81
+"656","learn","communities","IKEA Foundation","1/16/2024",30
+"657","learn","communities","IKEA Foundation","1/18/2024",30
+"658","learn","communities","IKEA Foundation ","1/16/2024",23
+"659","learn","communities","IKEA Foundation ","1/18/2024",23
+"660","learn","communities","Mc Arthur Foundation","1/16/2024",38
+"661","learn","communities","Mc Arthur Foundation","1/18/2024",38
+"662","learn","communities","Sean Parker Foundation","1/16/2024",13
+"663","learn","communities","Sean Parker Foundation","1/18/2024",13
+"664","learning","education","Alliance","1/18/2024",6
+"665","learning","education","Bloomberg Philantrhopies","1/16/2024",29
+"666","learning","education","Bloomberg Philantrhopies","1/18/2024",29
+"667","learning","education","Howard G. Buffet Foundation","1/16/2024",1
+"668","learning","education","Howard G. Buffet Foundation","1/18/2024",1
+"669","learning","education","IKEA Foundation","1/16/2024",5
+"670","learning","education","IKEA Foundation","1/18/2024",5
+"671","learning","education","IKEA Foundation ","1/16/2024",75
+"672","learning","education","IKEA Foundation ","1/18/2024",75
+"673","learning","education","Mc Arthur Foundation","1/16/2024",115
+"674","learning","education","Mc Arthur Foundation","1/18/2024",115
+"675","library","education","Bloomberg Philantrhopies","1/16/2024",58
+"676","library","education","Bloomberg Philantrhopies","1/18/2024",58
+"677","library","education","IKEA Foundation ","1/16/2024",2
+"678","library","education","IKEA Foundation ","1/18/2024",2
+"679","library","education","Mc Arthur Foundation","1/16/2024",2
+"680","library","education","Mc Arthur Foundation","1/18/2024",2
+"681","library","education","Sean Parker Foundation","1/16/2024",1
+"682","library","education","Sean Parker Foundation","1/18/2024",1
+"683","locate","region","IKEA Foundation ","1/16/2024",3
+"684","locate","region","IKEA Foundation ","1/18/2024",3
+"685","malnutrition","food_system","Alliance","1/18/2024",9
+"686","malnutrition","food_system","Howard G. Buffet Foundation","1/18/2024",1
+"687","malnutrition","food_system","IKEA Foundation ","1/16/2024",6
+"688","malnutrition","food_system","IKEA Foundation ","1/18/2024",6
+"689","man","gender","IKEA Foundation ","1/16/2024",7
+"690","man","gender","IKEA Foundation ","1/18/2024",7
+"691","man","gender","Mc Arthur Foundation","1/16/2024",2
+"692","man","gender","Mc Arthur Foundation","1/18/2024",2
+"693","medium","research","Bloomberg Philantrhopies","1/16/2024",36
+"694","medium","research","Bloomberg Philantrhopies","1/18/2024",36
+"695","medium","research","IKEA Foundation ","1/16/2024",80
+"696","medium","research","IKEA Foundation ","1/18/2024",80
+"697","medium","research","Mc Arthur Foundation","1/16/2024",12
+"698","medium","research","Mc Arthur Foundation","1/18/2024",12
+"699","medium","research","Sean Parker Foundation","1/16/2024",15
+"700","medium","research","Sean Parker Foundation","1/18/2024",15
+"701","mentality","gender","IKEA Foundation ","1/16/2024",2
+"702","mentality","gender","IKEA Foundation ","1/18/2024",2
+"703","mitigating","climate","Alliance","1/18/2024",1
+"704","mitigating","climate","IKEA Foundation ","1/16/2024",4
+"705","mitigating","climate","IKEA Foundation ","1/18/2024",4
+"706","mitigating","climate","Mc Arthur Foundation","1/16/2024",3
+"707","mitigating","climate","Mc Arthur Foundation","1/18/2024",7
+"708","moments","gender","Bloomberg Philantrhopies","1/16/2024",3
+"709","moments","gender","Bloomberg Philantrhopies","1/18/2024",3
+"710","moments","gender","Howard G. Buffet Foundation","1/16/2024",1
+"711","moments","gender","Howard G. Buffet Foundation","1/18/2024",1
+"712","moments","gender","IKEA Foundation ","1/16/2024",5
+"713","moments","gender","IKEA Foundation ","1/18/2024",5
+"714","moments","gender","Sean Parker Foundation","1/16/2024",1
+"715","moments","gender","Sean Parker Foundation","1/18/2024",1
+"716","monoculture","food_system","Alliance","1/18/2024",1
+"717","nationality","communities","IKEA Foundation ","1/16/2024",1
+"718","nationality","communities","IKEA Foundation ","1/18/2024",1
+"719","natural","environment","Alliance","1/18/2024",6
+"720","natural","environment","Bloomberg Philantrhopies","1/16/2024",2
+"721","natural","environment","Bloomberg Philantrhopies","1/18/2024",2
+"722","natural","environment","Howard G. Buffet Foundation","1/16/2024",4
+"723","natural","environment","Howard G. Buffet Foundation","1/18/2024",4
+"724","natural","environment","IKEA Foundation ","1/16/2024",131
+"725","natural","environment","IKEA Foundation ","1/18/2024",131
+"726","natural","environment","Mc Arthur Foundation","1/16/2024",27
+"727","natural","environment","Mc Arthur Foundation","1/18/2024",27
+"728","nature","environment","Alliance","1/18/2024",2
+"729","nature","environment","Howard G. Buffet Foundation","1/16/2024",1
+"730","nature","environment","Howard G. Buffet Foundation","1/18/2024",1
+"731","nature","environment","IKEA Foundation","1/16/2024",2
+"732","nature","environment","IKEA Foundation","1/18/2024",2
+"733","nature","environment","IKEA Foundation ","1/16/2024",51
+"734","nature","environment","IKEA Foundation ","1/18/2024",51
+"735","nature","environment","Mc Arthur Foundation","1/16/2024",9
+"736","nature","environment","Mc Arthur Foundation","1/18/2024",9
+"737","neutral","gender","IKEA Foundation ","1/16/2024",11
+"738","neutral","gender","IKEA Foundation ","1/18/2024",11
+"739","neutral","gender","Mc Arthur Foundation","1/16/2024",1
+"740","neutral","gender","Mc Arthur Foundation","1/18/2024",1
+"741","nutrients","food_system","Alliance","1/18/2024",1
+"742","nutrients","food_system","IKEA Foundation","1/16/2024",1
+"743","nutrients","food_system","IKEA Foundation","1/18/2024",1
+"744","nutrients","food_system","IKEA Foundation ","1/16/2024",2
+"745","nutrients","food_system","IKEA Foundation ","1/18/2024",2
+"746","nutrition","food_system","Alliance","1/18/2024",55
+"747","nutrition","food_system","IKEA Foundation ","1/16/2024",32
+"748","nutrition","food_system","IKEA Foundation ","1/18/2024",32
+"749","nutritional","food_system","Alliance","1/18/2024",2
+"750","nutritional","food_system","Bloomberg Philantrhopies","1/18/2024",7
+"751","nutritional","food_system","IKEA Foundation ","1/16/2024",9
+"752","nutritional","food_system","IKEA Foundation ","1/18/2024",9
+"753","object","research","Bloomberg Philantrhopies","1/16/2024",72
+"754","object","research","Bloomberg Philantrhopies","1/18/2024",72
+"755","object","research","Howard G. Buffet Foundation","1/16/2024",21
+"756","object","research","Howard G. Buffet Foundation","1/18/2024",21
+"757","observing","research","IKEA Foundation ","1/16/2024",2
+"758","observing","research","IKEA Foundation ","1/18/2024",2
+"759","opposition","gender","Bloomberg Philantrhopies","1/18/2024",1
+"760","opposition","gender","IKEA Foundation ","1/16/2024",2
+"761","opposition","gender","IKEA Foundation ","1/18/2024",2
+"762","opposition","gender","Mc Arthur Foundation","1/16/2024",9
+"763","opposition","gender","Mc Arthur Foundation","1/18/2024",9
+"764","organic","environment","Alliance","1/18/2024",1
+"765","organic","environment","Bloomberg Philantrhopies","1/16/2024",1
+"766","organic","environment","Bloomberg Philantrhopies","1/18/2024",1
+"767","organic","environment","IKEA Foundation ","1/16/2024",35
+"768","organic","environment","IKEA Foundation ","1/18/2024",35
+"769","organic","environment","Mc Arthur Foundation","1/16/2024",2
+"770","organic","environment","Mc Arthur Foundation","1/18/2024",2
+"771","partner","communities","Alliance","1/18/2024",3
+"772","partner","communities","Bloomberg Philantrhopies","1/16/2024",28
+"773","partner","communities","Bloomberg Philantrhopies","1/18/2024",28
+"774","partner","communities","Howard G. Buffet Foundation","1/16/2024",4
+"775","partner","communities","Howard G. Buffet Foundation","1/18/2024",4
+"776","partner","communities","IKEA Foundation","1/16/2024",17
+"777","partner","communities","IKEA Foundation","1/18/2024",17
+"778","partner","communities","IKEA Foundation ","1/16/2024",169
+"779","partner","communities","IKEA Foundation ","1/18/2024",169
+"780","partner","communities","Mc Arthur Foundation","1/16/2024",22
+"781","partner","communities","Mc Arthur Foundation","1/18/2024",22
+"782","partner","communities","Sean Parker Foundation","1/16/2024",1
+"783","partner","communities","Sean Parker Foundation","1/18/2024",1
+"784","partnership","communities","Alliance","1/18/2024",28
+"785","partnership","communities","Bloomberg Philantrhopies","1/18/2024",29
+"786","partnership","communities","Howard G. Buffet Foundation","1/18/2024",10
+"787","partnership","communities","IKEA Foundation","1/18/2024",4
+"788","partnership","communities","IKEA Foundation ","1/16/2024",64
+"789","partnership","communities","IKEA Foundation ","1/18/2024",64
+"790","partnership","communities","Mc Arthur Foundation","1/16/2024",5
+"791","partnership","communities","Mc Arthur Foundation","1/18/2024",9
+"792","people","communities","Alliance","1/18/2024",20
+"793","people","communities","Bloomberg Philantrhopies","1/16/2024",48
+"794","people","communities","Bloomberg Philantrhopies","1/18/2024",48
+"795","people","communities","Howard G. Buffet Foundation","1/16/2024",9
+"796","people","communities","Howard G. Buffet Foundation","1/18/2024",9
+"797","people","communities","IKEA Foundation","1/16/2024",50
+"798","people","communities","IKEA Foundation","1/18/2024",50
+"799","people","communities","IKEA Foundation ","1/16/2024",166
+"800","people","communities","IKEA Foundation ","1/18/2024",166
+"801","people","communities","Mc Arthur Foundation","1/16/2024",146
+"802","people","communities","Mc Arthur Foundation","1/18/2024",146
+"803","people","communities","Sean Parker Foundation","1/16/2024",38
+"804","people","communities","Sean Parker Foundation","1/18/2024",38
+"805","place","region","Alliance","1/18/2024",2
+"806","place","region","Bloomberg Philantrhopies","1/16/2024",1
+"807","place","region","Bloomberg Philantrhopies","1/18/2024",1
+"808","place","region","IKEA Foundation","1/16/2024",3
+"809","place","region","IKEA Foundation","1/18/2024",3
+"810","place","region","IKEA Foundation ","1/16/2024",109
+"811","place","region","IKEA Foundation ","1/18/2024",109
+"812","place","region","Mc Arthur Foundation","1/16/2024",16
+"813","place","region","Mc Arthur Foundation","1/18/2024",16
+"814","planet","region","Alliance","1/18/2024",4
+"815","planet","region","Bloomberg Philantrhopies","1/16/2024",4
+"816","planet","region","Bloomberg Philantrhopies","1/18/2024",4
+"817","planet","region","Howard G. Buffet Foundation","1/16/2024",1
+"818","planet","region","Howard G. Buffet Foundation","1/18/2024",1
+"819","planet","region","IKEA Foundation","1/16/2024",24
+"820","planet","region","IKEA Foundation","1/18/2024",24
+"821","planet","region","IKEA Foundation ","1/16/2024",14
+"822","planet","region","IKEA Foundation ","1/18/2024",14
+"823","planet","region","Mc Arthur Foundation","1/16/2024",7
+"824","planet","region","Mc Arthur Foundation","1/18/2024",7
+"825","population","communities","Alliance","1/18/2024",4
+"826","population","communities","Bloomberg Philantrhopies","1/18/2024",2
+"827","population","communities","Howard G. Buffet Foundation","1/18/2024",8
+"828","population","communities","IKEA Foundation","1/18/2024",1
+"829","population","communities","IKEA Foundation ","1/16/2024",93
+"830","population","communities","IKEA Foundation ","1/18/2024",93
+"831","population","communities","Mc Arthur Foundation","1/16/2024",9
+"832","population","communities","Mc Arthur Foundation","1/18/2024",13
+"833","population","communities","Sean Parker Foundation","1/18/2024",2
+"834","prince","gender","IKEA Foundation","1/16/2024",1
+"835","prince","gender","IKEA Foundation","1/18/2024",1
+"836","prince","gender","IKEA Foundation ","1/16/2024",2
+"837","prince","gender","IKEA Foundation ","1/18/2024",2
+"838","prince","gender","Mc Arthur Foundation","1/16/2024",1
+"839","prince","gender","Mc Arthur Foundation","1/18/2024",1
+"840","problem","research","Alliance","1/18/2024",1
+"841","problem","research","Bloomberg Philantrhopies","1/16/2024",38
+"842","problem","research","Bloomberg Philantrhopies","1/18/2024",38
+"843","problem","research","Howard G. Buffet Foundation","1/16/2024",3
+"844","problem","research","Howard G. Buffet Foundation","1/18/2024",3
+"845","problem","research","IKEA Foundation","1/16/2024",27
+"846","problem","research","IKEA Foundation","1/18/2024",27
+"847","problem","research","IKEA Foundation ","1/16/2024",12
+"848","problem","research","IKEA Foundation ","1/18/2024",12
+"849","problem","research","Mc Arthur Foundation","1/16/2024",35
+"850","problem","research","Mc Arthur Foundation","1/18/2024",35
+"851","problem","research","Sean Parker Foundation","1/16/2024",7
+"852","problem","research","Sean Parker Foundation","1/18/2024",7
+"853","processing","food_system","Alliance","1/18/2024",2
+"854","processing","food_system","IKEA Foundation ","1/16/2024",43
+"855","processing","food_system","IKEA Foundation ","1/18/2024",43
+"856","processing","food_system","Mc Arthur Foundation","1/18/2024",2
+"857","produce","food_system","Alliance","1/18/2024",3
+"858","produce","food_system","Bloomberg Philantrhopies","1/16/2024",2
+"859","produce","food_system","Bloomberg Philantrhopies","1/18/2024",2
+"860","produce","food_system","IKEA Foundation","1/16/2024",1
+"861","produce","food_system","IKEA Foundation","1/18/2024",1
+"862","produce","food_system","IKEA Foundation ","1/16/2024",76
+"863","produce","food_system","IKEA Foundation ","1/18/2024",76
+"864","produce","food_system","Mc Arthur Foundation","1/16/2024",7
+"865","produce","food_system","Mc Arthur Foundation","1/18/2024",7
+"866","production","food_system","Alliance","1/18/2024",29
+"867","production","food_system","Howard G. Buffet Foundation","1/18/2024",8
+"868","production","food_system","IKEA Foundation","1/18/2024",1
+"869","production","food_system","IKEA Foundation ","1/16/2024",183
+"870","production","food_system","IKEA Foundation ","1/18/2024",183
+"871","production","food_system","Mc Arthur Foundation","1/16/2024",39
+"872","production","food_system","Mc Arthur Foundation","1/18/2024",42
+"873","progress","communities","Alliance","1/18/2024",6
+"874","progress","communities","Bloomberg Philantrhopies","1/16/2024",27
+"875","progress","communities","Bloomberg Philantrhopies","1/18/2024",27
+"876","progress","communities","Howard G. Buffet Foundation","1/16/2024",2
+"877","progress","communities","Howard G. Buffet Foundation","1/18/2024",2
+"878","progress","communities","IKEA Foundation","1/16/2024",3
+"879","progress","communities","IKEA Foundation","1/18/2024",3
+"880","progress","communities","IKEA Foundation ","1/16/2024",129
+"881","progress","communities","IKEA Foundation ","1/18/2024",129
+"882","progress","communities","Mc Arthur Foundation","1/16/2024",218
+"883","progress","communities","Mc Arthur Foundation","1/18/2024",218
+"884","proposal","research","IKEA Foundation","1/16/2024",1
+"885","proposal","research","IKEA Foundation","1/18/2024",1
+"886","proposal","research","IKEA Foundation ","1/16/2024",13
+"887","proposal","research","IKEA Foundation ","1/18/2024",13
+"888","proposal","research","Mc Arthur Foundation","1/16/2024",10
+"889","proposal","research","Mc Arthur Foundation","1/18/2024",10
+"890","protect","environment","Alliance","1/18/2024",6
+"891","protect","environment","Bloomberg Philantrhopies","1/16/2024",28
+"892","protect","environment","Bloomberg Philantrhopies","1/18/2024",28
+"893","protect","environment","IKEA Foundation","1/16/2024",6
+"894","protect","environment","IKEA Foundation","1/18/2024",6
+"895","protect","environment","IKEA Foundation ","1/16/2024",10
+"896","protect","environment","IKEA Foundation ","1/18/2024",10
+"897","protect","environment","Mc Arthur Foundation","1/16/2024",9
+"898","protect","environment","Mc Arthur Foundation","1/18/2024",9
+"899","province","region","Alliance","1/18/2024",1
+"900","province","region","Howard G. Buffet Foundation","1/16/2024",1
+"901","province","region","Howard G. Buffet Foundation","1/18/2024",1
+"902","province","region","IKEA Foundation","1/16/2024",1
+"903","province","region","IKEA Foundation","1/18/2024",1
+"904","province","region","Mc Arthur Foundation","1/16/2024",1
+"905","province","region","Mc Arthur Foundation","1/18/2024",1
+"906","qualitative","research","Alliance","1/18/2024",2
+"907","qualitative","research","IKEA Foundation ","1/16/2024",64
+"908","qualitative","research","IKEA Foundation ","1/18/2024",64
+"909","qualitative","research","Mc Arthur Foundation","1/16/2024",15
+"910","qualitative","research","Mc Arthur Foundation","1/18/2024",16
+"911","quality","food_system","Alliance","1/18/2024",12
+"912","quality","food_system","Bloomberg Philantrhopies","1/16/2024",19
+"913","quality","food_system","Bloomberg Philantrhopies","1/18/2024",19
+"914","quality","food_system","Howard G. Buffet Foundation","1/16/2024",27
+"915","quality","food_system","Howard G. Buffet Foundation","1/18/2024",27
+"916","quality","food_system","IKEA Foundation ","1/16/2024",120
+"917","quality","food_system","IKEA Foundation ","1/18/2024",120
+"918","quality","food_system","Mc Arthur Foundation","1/16/2024",27
+"919","quality","food_system","Mc Arthur Foundation","1/18/2024",27
+"920","quality","food_system","Sean Parker Foundation","1/16/2024",2
+"921","quality","food_system","Sean Parker Foundation","1/18/2024",2
+"922","quantitative","research","Alliance","1/18/2024",3
+"923","quantitative","research","Howard G. Buffet Foundation","1/18/2024",1
+"924","quantitative","research","IKEA Foundation ","1/16/2024",84
+"925","quantitative","research","IKEA Foundation ","1/18/2024",84
+"926","quantitative","research","Mc Arthur Foundation","1/16/2024",8
+"927","quantitative","research","Mc Arthur Foundation","1/18/2024",9
+"928","question","research","IKEA Foundation ","1/16/2024",128
+"929","question","research","IKEA Foundation ","1/18/2024",128
+"930","question","research","Mc Arthur Foundation","1/16/2024",9
+"931","question","research","Mc Arthur Foundation","1/18/2024",9
+"932","question","research","Sean Parker Foundation","1/16/2024",1
+"933","question","research","Sean Parker Foundation","1/18/2024",1
+"934","racism","communities","IKEA Foundation ","1/16/2024",1
+"935","racism","communities","IKEA Foundation ","1/18/2024",1
+"936","racism","communities","Mc Arthur Foundation","1/16/2024",11
+"937","racism","communities","Mc Arthur Foundation","1/18/2024",11
+"938","regional","region","Alliance","1/18/2024",20
+"939","regional","region","Bloomberg Philantrhopies","1/16/2024",3
+"940","regional","region","Bloomberg Philantrhopies","1/18/2024",3
+"941","regional","region","IKEA Foundation ","1/16/2024",49
+"942","regional","region","IKEA Foundation ","1/18/2024",49
+"943","regional","region","Mc Arthur Foundation","1/16/2024",18
+"944","regional","region","Mc Arthur Foundation","1/18/2024",18
+"945","relationship","gender","Howard G. Buffet Foundation","1/18/2024",2
+"946","relationship","gender","IKEA Foundation ","1/16/2024",49
+"947","relationship","gender","IKEA Foundation ","1/18/2024",49
+"948","relationship","gender","Mc Arthur Foundation","1/16/2024",32
+"949","relationship","gender","Mc Arthur Foundation","1/18/2024",42
+"950","relationship","gender","Sean Parker Foundation","1/18/2024",3
+"951","research","research","Alliance","1/18/2024",175
+"952","research","research","Bloomberg Philantrhopies","1/16/2024",14
+"953","research","research","Bloomberg Philantrhopies","1/18/2024",14
+"954","research","research","Howard G. Buffet Foundation","1/16/2024",9
+"955","research","research","Howard G. Buffet Foundation","1/18/2024",9
+"956","research","research","IKEA Foundation","1/16/2024",7
+"957","research","research","IKEA Foundation","1/18/2024",7
+"958","research","research","IKEA Foundation ","1/16/2024",440
+"959","research","research","IKEA Foundation ","1/18/2024",440
+"960","research","research","Mc Arthur Foundation","1/16/2024",192
+"961","research","research","Mc Arthur Foundation","1/18/2024",192
+"962","research","research","Sean Parker Foundation","1/16/2024",82
+"963","research","research","Sean Parker Foundation","1/18/2024",82
+"964","researcher","research","Alliance","1/18/2024",2
+"965","researcher","research","Mc Arthur Foundation","1/16/2024",1
+"966","researcher","research","Mc Arthur Foundation","1/18/2024",1
+"967","researcher","research","Sean Parker Foundation","1/18/2024",2
+"968","researchers","research","Alliance","1/18/2024",10
+"969","researchers","research","Bloomberg Philantrhopies","1/18/2024",2
+"970","researchers","research","IKEA Foundation ","1/16/2024",5
+"971","researchers","research","IKEA Foundation ","1/18/2024",5
+"972","researchers","research","Mc Arthur Foundation","1/16/2024",1
+"973","researchers","research","Mc Arthur Foundation","1/18/2024",1
+"974","researchers","research","Sean Parker Foundation","1/18/2024",10
+"975","reserves","communities","IKEA Foundation ","1/16/2024",12
+"976","reserves","communities","IKEA Foundation ","1/18/2024",12
+"977","reserves","communities","Mc Arthur Foundation","1/16/2024",1
+"978","reserves","communities","Mc Arthur Foundation","1/18/2024",1
+"979","responsibility","communities","IKEA Foundation ","1/16/2024",55
+"980","responsibility","communities","IKEA Foundation ","1/18/2024",55
+"981","responsibility","communities","Mc Arthur Foundation","1/16/2024",2
+"982","responsibility","communities","Mc Arthur Foundation","1/18/2024",2
+"983","review","education","Alliance","1/18/2024",3
+"984","review","education","IKEA Foundation","1/16/2024",26
+"985","review","education","IKEA Foundation","1/18/2024",26
+"986","review","education","IKEA Foundation ","1/16/2024",221
+"987","review","education","IKEA Foundation ","1/18/2024",221
+"988","review","education","Mc Arthur Foundation","1/16/2024",23
+"989","review","education","Mc Arthur Foundation","1/18/2024",23
+"990","review","education","Sean Parker Foundation","1/16/2024",2
+"991","review","education","Sean Parker Foundation","1/18/2024",2
+"992","rural","communities","Alliance","1/18/2024",8
+"993","rural","communities","Bloomberg Philantrhopies","1/16/2024",9
+"994","rural","communities","Bloomberg Philantrhopies","1/18/2024",12
+"995","rural","communities","Howard G. Buffet Foundation","1/16/2024",5
+"996","rural","communities","Howard G. Buffet Foundation","1/18/2024",5
+"997","rural","communities","IKEA Foundation","1/16/2024",4
+"998","rural","communities","IKEA Foundation","1/18/2024",4
+"999","rural","communities","IKEA Foundation ","1/16/2024",68
+"1000","rural","communities","IKEA Foundation ","1/18/2024",68
+"1001","rural","communities","Mc Arthur Foundation","1/16/2024",7
+"1002","rural","communities","Mc Arthur Foundation","1/18/2024",7
+"1003","safety","food_system","Alliance","1/18/2024",2
+"1004","safety","food_system","Bloomberg Philantrhopies","1/16/2024",142
+"1005","safety","food_system","Bloomberg Philantrhopies","1/18/2024",142
+"1006","safety","food_system","Howard G. Buffet Foundation","1/16/2024",27
+"1007","safety","food_system","Howard G. Buffet Foundation","1/18/2024",27
+"1008","safety","food_system","IKEA Foundation","1/16/2024",1
+"1009","safety","food_system","IKEA Foundation","1/18/2024",1
+"1010","safety","food_system","IKEA Foundation ","1/16/2024",19
+"1011","safety","food_system","IKEA Foundation ","1/18/2024",19
+"1012","safety","food_system","Mc Arthur Foundation","1/16/2024",15
+"1013","safety","food_system","Mc Arthur Foundation","1/18/2024",15
+"1014","science","research","Alliance","1/18/2024",15
+"1015","science","research","Bloomberg Philantrhopies","1/16/2024",8
+"1016","science","research","Bloomberg Philantrhopies","1/18/2024",8
+"1017","science","research","IKEA Foundation","1/16/2024",6
+"1018","science","research","IKEA Foundation","1/18/2024",6
+"1019","science","research","IKEA Foundation ","1/16/2024",70
+"1020","science","research","IKEA Foundation ","1/18/2024",70
+"1021","science","research","Mc Arthur Foundation","1/16/2024",44
+"1022","science","research","Mc Arthur Foundation","1/18/2024",44
+"1023","science","research","Sean Parker Foundation","1/16/2024",10
+"1024","science","research","Sean Parker Foundation","1/18/2024",10
+"1025","scientific","research","Alliance","1/18/2024",2
+"1026","scientific","research","Bloomberg Philantrhopies","1/18/2024",1
+"1027","scientific","research","IKEA Foundation","1/18/2024",1
+"1028","scientific","research","IKEA Foundation ","1/16/2024",22
+"1029","scientific","research","IKEA Foundation ","1/18/2024",22
+"1030","scientific","research","Mc Arthur Foundation","1/16/2024",10
+"1031","scientific","research","Mc Arthur Foundation","1/18/2024",10
+"1032","scientific","research","Sean Parker Foundation","1/18/2024",5
+"1033","security","food_system","Alliance","1/18/2024",37
+"1034","security","food_system","Bloomberg Philantrhopies","1/16/2024",2
+"1035","security","food_system","Bloomberg Philantrhopies","1/18/2024",2
+"1036","security","food_system","Howard G. Buffet Foundation","1/16/2024",56
+"1037","security","food_system","Howard G. Buffet Foundation","1/18/2024",56
+"1038","security","food_system","IKEA Foundation","1/16/2024",1
+"1039","security","food_system","IKEA Foundation","1/18/2024",1
+"1040","security","food_system","IKEA Foundation ","1/16/2024",61
+"1041","security","food_system","IKEA Foundation ","1/18/2024",61
+"1042","security","food_system","Mc Arthur Foundation","1/16/2024",15
+"1043","security","food_system","Mc Arthur Foundation","1/18/2024",15
+"1044","security","food_system","Sean Parker Foundation","1/16/2024",1
+"1045","security","food_system","Sean Parker Foundation","1/18/2024",1
+"1046","seeds","food_system","Alliance","1/18/2024",8
+"1047","seeds","food_system","IKEA Foundation","1/16/2024",1
+"1048","seeds","food_system","IKEA Foundation","1/18/2024",1
+"1049","seeds","food_system","IKEA Foundation ","1/16/2024",10
+"1050","seeds","food_system","IKEA Foundation ","1/18/2024",10
+"1051","seeds","food_system","Mc Arthur Foundation","1/16/2024",1
+"1052","seeds","food_system","Mc Arthur Foundation","1/18/2024",1
+"1053","sequence","climate","Alliance","1/18/2024",2
+"1054","sequence","climate","IKEA Foundation ","1/16/2024",4
+"1055","sequence","climate","IKEA Foundation ","1/18/2024",4
+"1056","sequence","climate","Mc Arthur Foundation","1/16/2024",2
+"1057","sequence","climate","Mc Arthur Foundation","1/18/2024",2
+"1058","sex","gender","IKEA Foundation ","1/16/2024",39
+"1059","sex","gender","IKEA Foundation ","1/18/2024",39
+"1060","sexuality","gender","Mc Arthur Foundation","1/16/2024",1
+"1061","sexuality","gender","Mc Arthur Foundation","1/18/2024",1
+"1062","sharing","communities","Alliance","1/18/2024",1
+"1063","sharing","communities","Bloomberg Philantrhopies","1/16/2024",1
+"1064","sharing","communities","Bloomberg Philantrhopies","1/18/2024",1
+"1065","sharing","communities","IKEA Foundation","1/16/2024",5
+"1066","sharing","communities","IKEA Foundation","1/18/2024",5
+"1067","sharing","communities","IKEA Foundation ","1/16/2024",34
+"1068","sharing","communities","IKEA Foundation ","1/18/2024",34
+"1069","sharing","communities","Mc Arthur Foundation","1/16/2024",20
+"1070","sharing","communities","Mc Arthur Foundation","1/18/2024",20
+"1071","society","communities","Alliance","1/18/2024",3
+"1072","society","communities","Bloomberg Philantrhopies","1/16/2024",5
+"1073","society","communities","Bloomberg Philantrhopies","1/18/2024",5
+"1074","society","communities","IKEA Foundation","1/16/2024",1
+"1075","society","communities","IKEA Foundation","1/18/2024",1
+"1076","society","communities","IKEA Foundation ","1/16/2024",76
+"1077","society","communities","IKEA Foundation ","1/18/2024",76
+"1078","society","communities","Mc Arthur Foundation","1/16/2024",158
+"1079","society","communities","Mc Arthur Foundation","1/18/2024",158
+"1080","society","communities","Sean Parker Foundation","1/16/2024",5
+"1081","society","communities","Sean Parker Foundation","1/18/2024",5
+"1082","soils","environment","Alliance","1/18/2024",3
+"1083","soils","environment","Howard G. Buffet Foundation","1/16/2024",1
+"1084","soils","environment","Howard G. Buffet Foundation","1/18/2024",1
+"1085","soils","environment","IKEA Foundation ","1/16/2024",51
+"1086","soils","environment","IKEA Foundation ","1/18/2024",51
+"1087","solidarity","communities","Bloomberg Philantrhopies","1/18/2024",1
+"1088","solidarity","communities","IKEA Foundation ","1/16/2024",3
+"1089","solidarity","communities","IKEA Foundation ","1/18/2024",3
+"1090","source","environment","Alliance","1/18/2024",10
+"1091","source","environment","Bloomberg Philantrhopies","1/16/2024",8
+"1092","source","environment","Bloomberg Philantrhopies","1/18/2024",8
+"1093","source","environment","IKEA Foundation ","1/16/2024",137
+"1094","source","environment","IKEA Foundation ","1/18/2024",137
+"1095","source","environment","Mc Arthur Foundation","1/16/2024",66
+"1096","source","environment","Mc Arthur Foundation","1/18/2024",66
+"1097","sowing","environment","Alliance","1/18/2024",1
+"1098","space","climate","Alliance","1/18/2024",1
+"1099","space","climate","Bloomberg Philantrhopies","1/16/2024",12
+"1100","space","climate","Bloomberg Philantrhopies","1/18/2024",12
+"1101","space","climate","IKEA Foundation ","1/16/2024",37
+"1102","space","climate","IKEA Foundation ","1/18/2024",37
+"1103","space","climate","Mc Arthur Foundation","1/16/2024",7
+"1104","space","climate","Mc Arthur Foundation","1/18/2024",7
+"1105","species","environment","Alliance","1/18/2024",8
+"1106","species","environment","Howard G. Buffet Foundation","1/16/2024",3
+"1107","species","environment","Howard G. Buffet Foundation","1/18/2024",3
+"1108","species","environment","IKEA Foundation ","1/16/2024",47
+"1109","species","environment","IKEA Foundation ","1/18/2024",47
+"1110","species","environment","Sean Parker Foundation","1/16/2024",2
+"1111","species","environment","Sean Parker Foundation","1/18/2024",2
+"1112","spiritual","communities","IKEA Foundation ","1/16/2024",3
+"1113","spiritual","communities","IKEA Foundation ","1/18/2024",3
+"1114","square","region","Bloomberg Philantrhopies","1/16/2024",15
+"1115","square","region","Bloomberg Philantrhopies","1/18/2024",15
+"1116","square","region","IKEA Foundation ","1/16/2024",2
+"1117","square","region","IKEA Foundation ","1/18/2024",2
+"1118","stations","climate","IKEA Foundation ","1/16/2024",1
+"1119","stations","climate","IKEA Foundation ","1/18/2024",1
+"1120","stations","climate","Mc Arthur Foundation","1/16/2024",2
+"1121","stations","climate","Mc Arthur Foundation","1/18/2024",2
+"1122","stories","communities","Alliance","1/18/2024",25
+"1123","stories","communities","Bloomberg Philantrhopies","1/16/2024",19
+"1124","stories","communities","Bloomberg Philantrhopies","1/18/2024",19
+"1125","stories","communities","Howard G. Buffet Foundation","1/16/2024",3
+"1126","stories","communities","Howard G. Buffet Foundation","1/18/2024",3
+"1127","stories","communities","IKEA Foundation","1/16/2024",25
+"1128","stories","communities","IKEA Foundation","1/18/2024",25
+"1129","stories","communities","IKEA Foundation ","1/16/2024",4
+"1130","stories","communities","IKEA Foundation ","1/18/2024",4
+"1131","stories","communities","Mc Arthur Foundation","1/16/2024",148
+"1132","stories","communities","Mc Arthur Foundation","1/18/2024",148
+"1133","stories","communities","Sean Parker Foundation","1/16/2024",3
+"1134","stories","communities","Sean Parker Foundation","1/18/2024",3
+"1135","structure","education","Alliance","1/18/2024",1
+"1136","structure","education","IKEA Foundation ","1/16/2024",110
+"1137","structure","education","IKEA Foundation ","1/18/2024",110
+"1138","structure","education","Mc Arthur Foundation","1/16/2024",2
+"1139","structure","education","Mc Arthur Foundation","1/18/2024",2
+"1140","structure","education","Sean Parker Foundation","1/16/2024",2
+"1141","structure","education","Sean Parker Foundation","1/18/2024",2
+"1142","study","education","Alliance","1/18/2024",5
+"1143","study","education","Bloomberg Philantrhopies","1/16/2024",4
+"1144","study","education","Bloomberg Philantrhopies","1/18/2024",4
+"1145","study","education","IKEA Foundation","1/16/2024",1
+"1146","study","education","IKEA Foundation","1/18/2024",1
+"1147","study","education","IKEA Foundation ","1/16/2024",235
+"1148","study","education","IKEA Foundation ","1/18/2024",235
+"1149","study","education","Mc Arthur Foundation","1/16/2024",10
+"1150","study","education","Mc Arthur Foundation","1/18/2024",10
+"1151","study","education","Sean Parker Foundation","1/16/2024",4
+"1152","study","education","Sean Parker Foundation","1/18/2024",4
+"1153","surface","environment","IKEA Foundation ","1/16/2024",10
+"1154","surface","environment","IKEA Foundation ","1/18/2024",10
+"1155","surface","environment","Mc Arthur Foundation","1/16/2024",9
+"1156","surface","environment","Mc Arthur Foundation","1/18/2024",9
+"1157","sustainability","environment","IKEA Foundation ","1/16/2024",181
+"1158","sustainability","environment","IKEA Foundation ","1/18/2024",181
+"1159","sustainability","environment","Mc Arthur Foundation","1/16/2024",1
+"1160","sustainability","environment","Mc Arthur Foundation","1/18/2024",1
+"1161","terrain","environment","IKEA Foundation ","1/16/2024",2
+"1162","terrain","environment","IKEA Foundation ","1/18/2024",2
+"1163","test","research","IKEA Foundation ","1/16/2024",30
+"1164","test","research","IKEA Foundation ","1/18/2024",30
+"1165","test","research","Mc Arthur Foundation","1/16/2024",4
+"1166","test","research","Mc Arthur Foundation","1/18/2024",4
+"1167","tolerance","communities","IKEA Foundation ","1/16/2024",5
+"1168","tolerance","communities","IKEA Foundation ","1/18/2024",5
+"1169","tolerance","communities","Sean Parker Foundation","1/16/2024",3
+"1170","tolerance","communities","Sean Parker Foundation","1/18/2024",3
+"1171","trace","research","Bloomberg Philantrhopies","1/16/2024",36
+"1172","trace","research","Bloomberg Philantrhopies","1/18/2024",36
+"1173","traditions","communities","Mc Arthur Foundation","1/18/2024",3
+"1174","transform","food_system","Alliance","1/18/2024",3
+"1175","transform","food_system","Bloomberg Philantrhopies","1/16/2024",2
+"1176","transform","food_system","Bloomberg Philantrhopies","1/18/2024",2
+"1177","transform","food_system","Howard G. Buffet Foundation","1/16/2024",28
+"1178","transform","food_system","Howard G. Buffet Foundation","1/18/2024",26
+"1179","transform","food_system","IKEA Foundation","1/16/2024",3
+"1180","transform","food_system","IKEA Foundation","1/18/2024",3
+"1181","transform","food_system","IKEA Foundation ","1/16/2024",8
+"1182","transform","food_system","IKEA Foundation ","1/18/2024",8
+"1183","transform","food_system","Mc Arthur Foundation","1/16/2024",3
+"1184","transform","food_system","Mc Arthur Foundation","1/18/2024",3
+"1185","transform","food_system","Sean Parker Foundation","1/16/2024",3
+"1186","transform","food_system","Sean Parker Foundation","1/18/2024",3
+"1187","unit","communities","IKEA Foundation ","1/16/2024",40
+"1188","unit","communities","IKEA Foundation ","1/18/2024",40
+"1189","unit","communities","Mc Arthur Foundation","1/16/2024",1
+"1190","unit","communities","Mc Arthur Foundation","1/18/2024",1
+"1191","values","education","IKEA Foundation","1/16/2024",58
+"1192","values","education","IKEA Foundation","1/18/2024",58
+"1193","values","education","IKEA Foundation ","1/16/2024",71
+"1194","values","education","IKEA Foundation ","1/18/2024",71
+"1195","values","education","Mc Arthur Foundation","1/16/2024",66
+"1196","values","education","Mc Arthur Foundation","1/18/2024",66
+"1197","values","education","Sean Parker Foundation","1/16/2024",2
+"1198","values","education","Sean Parker Foundation","1/18/2024",2
+"1199","vegetable","environment","IKEA Foundation","1/16/2024",1
+"1200","vegetable","environment","IKEA Foundation","1/18/2024",1
+"1201","vegetable","environment","IKEA Foundation ","1/16/2024",3
+"1202","vegetable","environment","IKEA Foundation ","1/18/2024",3
+"1203","verify","research","IKEA Foundation ","1/16/2024",9
+"1204","verify","research","IKEA Foundation ","1/18/2024",9
+"1205","violence","gender","Bloomberg Philantrhopies","1/16/2024",6
+"1206","violence","gender","Bloomberg Philantrhopies","1/18/2024",6
+"1207","violence","gender","Howard G. Buffet Foundation","1/16/2024",16
+"1208","violence","gender","Howard G. Buffet Foundation","1/18/2024",16
+"1209","violence","gender","IKEA Foundation ","1/16/2024",25
+"1210","violence","gender","IKEA Foundation ","1/18/2024",25
+"1211","violence","gender","Mc Arthur Foundation","1/16/2024",2
+"1212","violence","gender","Mc Arthur Foundation","1/18/2024",2
+"1213","virus","environment","Alliance","1/18/2024",1
+"1214","virus","environment","Sean Parker Foundation","1/16/2024",1
+"1215","virus","environment","Sean Parker Foundation","1/18/2024",1
+"1216","volunteering","communities","Bloomberg Philantrhopies","1/18/2024",14
+"1217","volunteering","communities","Mc Arthur Foundation","1/18/2024",1
+"1218","waste","food_system","Bloomberg Philantrhopies","1/16/2024",6
+"1219","waste","food_system","Bloomberg Philantrhopies","1/18/2024",6
+"1220","waste","food_system","IKEA Foundation","1/16/2024",1
+"1221","waste","food_system","IKEA Foundation","1/18/2024",1
+"1222","waste","food_system","IKEA Foundation ","1/16/2024",19
+"1223","waste","food_system","IKEA Foundation ","1/18/2024",19
+"1224","waste","food_system","Mc Arthur Foundation","1/16/2024",14
+"1225","waste","food_system","Mc Arthur Foundation","1/18/2024",14
+"1226","welfare","communities","Alliance","1/18/2024",2
+"1227","welfare","communities","IKEA Foundation ","1/16/2024",12
+"1228","welfare","communities","IKEA Foundation ","1/18/2024",12
+"1229","wisdom","communities","IKEA Foundation ","1/16/2024",2
+"1230","wisdom","communities","IKEA Foundation ","1/18/2024",2
+"1231","women","gender","Alliance","1/18/2024",22
+"1232","women","gender","Bloomberg Philantrhopies","1/16/2024",30
+"1233","women","gender","Bloomberg Philantrhopies","1/18/2024",30
+"1234","women","gender","IKEA Foundation","1/16/2024",6
+"1235","women","gender","IKEA Foundation","1/18/2024",6
+"1236","women","gender","IKEA Foundation ","1/16/2024",524
+"1237","women","gender","IKEA Foundation ","1/18/2024",524
+"1238","women","gender","Mc Arthur Foundation","1/16/2024",3
+"1239","women","gender","Mc Arthur Foundation","1/18/2024",3
+"1240","women","gender","Sean Parker Foundation","1/16/2024",1
+"1241","women","gender","Sean Parker Foundation","1/18/2024",1
+"1242","world","region","Alliance","1/18/2024",12
+"1243","world","region","Bloomberg Philantrhopies","1/16/2024",255
+"1244","world","region","Bloomberg Philantrhopies","1/18/2024",254
+"1245","world","region","Howard G. Buffet Foundation","1/16/2024",13
+"1246","world","region","Howard G. Buffet Foundation","1/18/2024",13
+"1247","world","region","IKEA Foundation","1/16/2024",18
+"1248","world","region","IKEA Foundation","1/18/2024",18
+"1249","world","region","IKEA Foundation ","1/16/2024",119
+"1250","world","region","IKEA Foundation ","1/18/2024",119
+"1251","world","region","Mc Arthur Foundation","1/16/2024",55
+"1252","world","region","Mc Arthur Foundation","1/18/2024",55
+"1253","world","region","Sean Parker Foundation","1/16/2024",13
+"1254","world","region","Sean Parker Foundation","1/18/2024",13
+"1255","writing","education","Howard G. Buffet Foundation","1/16/2024",1
+"1256","writing","education","Howard G. Buffet Foundation","1/18/2024",1
+"1257","writing","education","IKEA Foundation ","1/16/2024",9
+"1258","writing","education","IKEA Foundation ","1/18/2024",9
+"1259","writing","education","Mc Arthur Foundation","1/16/2024",16
+"1260","writing","education","Mc Arthur Foundation","1/18/2024",16
