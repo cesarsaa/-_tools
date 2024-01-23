@@ -1,5 +1,6 @@
 # Proporciones
 g = gc;rm(list=ls())
+options(warn = -1, scipen = 999)    # Remove warning alerts and scientific notation
 #
 root <- "D:/OneDrive - CGIAR/Documents/GitHub/XX_tool/"
 #  
@@ -29,14 +30,20 @@ iki <- iki %>% mutate(word_cat =case_when(word %in% environment ~ "environment",
                                   TRUE ~ "others"))
 head(iki)
 
-df <- iki %>% group_by(category,word_cat,institution,date) %>% 
+iki$date <- lubridate::as_date(iki$date)
+
+df <- iki %>% dplyr::group_by(word_cat,date,institution) %>% 
+  # dplyr::mutate(Por = prop.table(n)*100)
   dplyr::summarize(total=sum(n)) %>% filter(word_cat!="others")
 
 total <- df %>% dplyr::group_by(., institution,date) %>% 
+  dplyr::mutate(Por = prop.table(total))
   dplyr::mutate(all=sum(total), prop=(total/all)*100) 
 
+total$category <- NULL
+
 total
-write.csv(total,paste0(root,"_Results/propor_concordancia.csv"))
+write.csv(total,paste0(root,"_Results/propor_concordancia2.csv"))
 
 df2 <- iki %>% group_by(word,word_cat,institution,date) %>% 
   dplyr::summarize(total=sum(n)) %>% filter(word_cat!="others")
@@ -44,3 +51,4 @@ df2 <- iki %>% group_by(word,word_cat,institution,date) %>%
 write.csv(df2,paste0(root,"_Results/word_category.csv"))
 
 
+ 

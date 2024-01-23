@@ -11,6 +11,7 @@ files2 = list.files(path=sl_pth2, pattern=paste0("web_scrapping_",".*.csv$"), fu
 myfiles = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FALSE)))
 myfiles$X <- NULL
 names(myfiles)
+
 names(myfiles)[1] <- "category"
 # institution
 

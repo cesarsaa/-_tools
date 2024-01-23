@@ -80,7 +80,7 @@ out_words<- c("instagram","bundessansweb","font","one","two","url","https","docl
 
               "c","n4","1","aa","s","ii","nthe","nand","nto","b","o","nin","co","e", "m","nof","nthis","nmately","fgd","gtmauth","disha","unment","dib","skao","eur",
               "nmental","nparis","t","mech", "nble","ps","showchar","subtitle","aligncenter","aexattr","fsready","kes","searchq","nfor","pydo","isinit","usedtget","usd",
-              "email","imagetype","whatsapp","efefef","bfbfbf","infowindow","nth","0","1","2","3","4","5","6","7","8","9","fontweight","font weight","font-weight"
+              "email","imagetype","whatsapp","efefef","bfbfbf","infowindow","nth","0","1","2","3","4","5","6","7","8","9","fontweight","font weight","font-weight",
 	      "slidingpopup","uhttps","linewidth", "columnwidth", "pagewidth", "characterwidth", "textsize", "fontwidth", "textlength", "textsize", "textformat", "textalignment",
               "HTML", "CSS", "JavaScript", "Python", "Ruby", "PHP", "Java", "C#", "ASP.NET", "Node.js", "React", "Angular", "Vue.js", "Django", "Flask", "Express.js", "Spring", 
 	      "Bootstrap", "jQuery", "RESTful", "API", "JSON", "AJAX", "Git", "GitHub", "Heroku", "Responsive Design", "Front-end", "Back-end", "Full Stack", "Database", "SQL", "MongoDB", 
